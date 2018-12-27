@@ -26,8 +26,7 @@ TODO: Add long description of the pod here.
   s.author           = { 'SpikeLeeHom' => 'spikeleeyuuui@gmail.com' }
   s.source           = { :git => 'https://github.com/SpikeLeeHom/ccuiio.git', :tag => "#{s.version}" }
   s.source_files = 'ccuiio/Classes/**/*.{h,m,mm,c,swift}'
-  s.ios.deployment_target = '9.0'
-  s.compiler_flags = "-fcxx-modules"
+  s.ios.deployment_target = '9.0' 
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
       sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
