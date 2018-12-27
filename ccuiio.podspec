@@ -29,7 +29,6 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
   s.compiler_flags = "-fcxx-modules"
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
-  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
       sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
       sss.ios.vendored_frameworks = 'ccuiio/Classes/Frameworks/*.framework'
@@ -39,7 +38,7 @@ TODO: Add long description of the pod here.
   
   s.dependency 'Cartography','~>3.0'
   s.dependency 'KeychainAccess', '~> 3.1.1'
-  s.dependency 'RealmSwift', '~> 2.10.2'
+  s.dependency 'RealmSwift', '~> 2.10.2', :modular_headers => true
   s.dependency 'CocoaLumberjack/Swift', '~> 3.4.1'
   s.dependency 'LogglyLogger-CocoaLumberjack', '~> 3.0.0'
   s.dependency 'Alamofire'
