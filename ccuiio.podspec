@@ -36,10 +36,4 @@ TODO: Add long description of the pod here.
 
   end
   
-  s.dependency 'Cartography','~>3.0'
-  s.dependency 'KeychainAccess', '~> 3.1.1' 
-  s.dependency 'CocoaLumberjack/Swift', '~> 3.4.1'
-  s.dependency 'LogglyLogger-CocoaLumberjack', '~> 3.0.0'
-  s.dependency 'Alamofire'
-  s.dependency 'AsyncSwift'
 end
