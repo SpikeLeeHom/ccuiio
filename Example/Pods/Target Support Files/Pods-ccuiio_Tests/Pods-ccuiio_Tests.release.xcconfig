@@ -1,0 +1,13 @@
+EMBEDDED_CONTENT_CONTAINS_SWIFT = YES
+FRAMEWORK_SEARCH_PATHS = $(inherited) "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire" "${PODS_CONFIGURATION_BUILD_DIR}/AsyncSwift" "${PODS_CONFIGURATION_BUILD_DIR}/Cartography" "${PODS_CONFIGURATION_BUILD_DIR}/CocoaLumberjack" "${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess" "${PODS_CONFIGURATION_BUILD_DIR}/LogglyLogger-CocoaLumberjack" "${PODS_CONFIGURATION_BUILD_DIR}/Realm" "${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift" "${PODS_ROOT}/../../ccuiio/Classes/Frameworks"
+GCC_PREPROCESSOR_DEFINITIONS = $(inherited) COCOAPODS=1
+HEADER_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/Headers/Public" "${PODS_ROOT}/Headers/Public/ccuiio"
+LD_RUNPATH_SEARCH_PATHS = $(inherited) '@executable_path/Frameworks' '@loader_path/Frameworks'
+LIBRARY_SEARCH_PATHS = $(inherited) "${PODS_ROOT}/../../ccuiio/Classes/lib"
+OTHER_CFLAGS = $(inherited) -iquote "${PODS_CONFIGURATION_BUILD_DIR}/Alamofire/Alamofire.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/AsyncSwift/Async.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/Cartography/Cartography.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/CocoaLumberjack/CocoaLumberjack.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/KeychainAccess/KeychainAccess.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/LogglyLogger-CocoaLumberjack/LogglyLogger_CocoaLumberjack.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/Realm/Realm.framework/Headers" -iquote "${PODS_CONFIGURATION_BUILD_DIR}/RealmSwift/RealmSwift.framework/Headers" -isystem "${PODS_ROOT}/Headers/Public" -isystem "${PODS_ROOT}/Headers/Public/ccuiio"
+OTHER_LDFLAGS = $(inherited) -ObjC -l"crypto" -l"ssl" -framework "Alamofire" -framework "Async" -framework "Cartography" -framework "CocoaAsyncSocket" -framework "CocoaLumberjack" -framework "Eureka" -framework "KeychainAccess" -framework "KissXML" -framework "LogglyLogger_CocoaLumberjack" -framework "MMWormhole" -framework "PacketProcessor" -framework "PotatsoBase" -framework "PotatsoLibrary" -framework "PotatsoModel" -framework "Realm" -framework "RealmSwift" -framework "ShadowPath" -framework "libmaxminddb" -framework "libsodium" -framework "libuv" -framework "mbedtls" -framework "ssrLocal" -framework "yaml"
+OTHER_SWIFT_FLAGS = $(inherited) "-D" "COCOAPODS"
+PODS_BUILD_DIR = ${BUILD_DIR}
+PODS_CONFIGURATION_BUILD_DIR = ${PODS_BUILD_DIR}/$(CONFIGURATION)$(EFFECTIVE_PLATFORM_NAME)
+PODS_PODFILE_DIR_PATH = ${SRCROOT}/.
+PODS_ROOT = ${SRCROOT}/Pods

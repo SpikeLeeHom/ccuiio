@@ -1,0 +1,6 @@
+framework module ccuiio {
+  umbrella header "ccuiio-umbrella.h"
+
+  export *
+  module * { export * }
+}

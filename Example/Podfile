@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ccuiio_Tests' do
+  pod 'ccuiio', :path => '../'
+  
+  
+end

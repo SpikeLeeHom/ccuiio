@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.8.0)
+  - AsyncSwift (2.0.4)
+  - Cartography (3.1.0)
+  - ccuiio (0.1.0):
+    - Alamofire
+    - AsyncSwift
+    - Cartography (~> 3.0)
+    - ccuiio/CcuiioThirdPartSocialVendor (= 0.1.0)
+    - CocoaLumberjack/Swift (~> 3.4.1)
+    - KeychainAccess (~> 3.1.1)
+    - LogglyLogger-CocoaLumberjack (~> 3.0.0)
+    - RealmSwift (~> 2.10.2)
+  - ccuiio/CcuiioThirdPartSocialVendor (0.1.0):
+    - Alamofire
+    - AsyncSwift
+    - Cartography (~> 3.0)
+    - CocoaLumberjack/Swift (~> 3.4.1)
+    - KeychainAccess (~> 3.1.1)
+    - LogglyLogger-CocoaLumberjack (~> 3.0.0)
+    - RealmSwift (~> 2.10.2)
+  - CocoaLumberjack (3.4.2):
+    - CocoaLumberjack/Default (= 3.4.2)
+    - CocoaLumberjack/Extensions (= 3.4.2)
+  - CocoaLumberjack/Default (3.4.2)
+  - CocoaLumberjack/Extensions (3.4.2):
+    - CocoaLumberjack/Default
+  - CocoaLumberjack/Swift (3.4.2):
+    - CocoaLumberjack/Default
+  - KeychainAccess (3.1.2)
+  - LogglyLogger-CocoaLumberjack (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+    - LogglyLogger-CocoaLumberjack/Formatter (= 3.0.0)
+    - LogglyLogger-CocoaLumberjack/Logger (= 3.0.0)
+  - LogglyLogger-CocoaLumberjack/Formatter (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+  - LogglyLogger-CocoaLumberjack/Logger (3.0.0):
+    - CocoaLumberjack (~> 3.0)
+  - Realm (2.10.2):
+    - Realm/Headers (= 2.10.2)
+  - Realm/Headers (2.10.2)
+  - RealmSwift (2.10.2):
+    - Realm (= 2.10.2)
+
+DEPENDENCIES:
+  - ccuiio (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AsyncSwift
+    - Cartography
+    - CocoaLumberjack
+    - KeychainAccess
+    - LogglyLogger-CocoaLumberjack
+    - Realm
+    - RealmSwift
+
+EXTERNAL SOURCES:
+  ccuiio:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Alamofire: 3ec537f71edc9804815215393ae2b1a8ea33a844
+  AsyncSwift: 65775a7b32e740609b24969ece3de58723b9dc3e
+  Cartography: 1988b7578871a56c036e7af17195cb2190edf18c
+  ccuiio: 6968cd9fefcd859db157126d255ca24651426b75
+  CocoaLumberjack: db7cc9e464771f12054c22ff6947c5a58d43a0fd
+  KeychainAccess: b3816fddcf28aa29d94b10ec305cd52be14c472b
+  LogglyLogger-CocoaLumberjack: 16afad0a63fb70179fda1db85e03aeb3ded7fb02
+  Realm: 0ef72b837fb67e9f4b098bac771ddd72c7fdbb69
+  RealmSwift: 07a9ae0505091eda6b2ee7c190c3786d6e90a7b0
+
+PODFILE CHECKSUM: 962295123cdb3c14184a5aebeddd867f406e1187
+
+COCOAPODS: 1.5.3
