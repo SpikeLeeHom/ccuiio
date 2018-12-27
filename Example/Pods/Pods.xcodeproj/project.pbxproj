@@ -476,101 +476,56 @@
 		00FD70F865189B87EDFDD145581AAD68 /* RLMThreadSafeReference.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMThreadSafeReference.h; path = include/RLMThreadSafeReference.h; sourceTree = "<group>"; };
 		01AA9D34C595D0090D39C428A39B742A /* Aliases.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Aliases.swift; path = RealmSwift/Aliases.swift; sourceTree = "<group>"; };
 		01D4B458072FD747ED37F19A96503988 /* Realm.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Realm.xcconfig; sourceTree = "<group>"; };
-		031DB97B794A8B649664E4614947171F /* version.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = version.h; sourceTree = "<group>"; };
-		03725B379E66CEB99D255B6C666F5FAF /* crypto_auth_hmacsha256.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha256.h; sourceTree = "<group>"; };
-		038226C956BF3E042E1F527C0D9E2D4F /* crypto_stream_xsalsa20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_xsalsa20.h; sourceTree = "<group>"; };
-		039356B3B053EEE0A01003A0F9EDA272 /* x509_crt.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509_crt.h; sourceTree = "<group>"; };
 		05C29FB91A9E91E3A8AA75D3C0273214 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		067CA7743DA506B0B1E27178E08E2451 /* Pods-ccuiio_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ccuiio_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		06B508762B10AB7E13C33B8ADD1853A0 /* RLMObject_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObject_Private.h; path = include/RLMObject_Private.h; sourceTree = "<group>"; };
 		0766BFA741C542DCC49A80823DE92BC7 /* collection_change_builder.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = collection_change_builder.cpp; path = Realm/ObjectStore/src/impl/collection_change_builder.cpp; sourceTree = "<group>"; };
 		07B859CFDE0B6352263829AA1C76D269 /* Coefficients.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Coefficients.swift; path = Cartography/Coefficients.swift; sourceTree = "<group>"; };
-		0830EAFBE299C053B6CFA70E72D23535 /* ssl_cache.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl_cache.h; sourceTree = "<group>"; };
 		0862D1BA0C691BD3EB0A8E2A1255BA7A /* primitive_list_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = primitive_list_notifier.cpp; path = Realm/ObjectStore/src/impl/primitive_list_notifier.cpp; sourceTree = "<group>"; };
 		08816C5096E63EEB4426BA5DE0D0D4D6 /* Pods-ccuiio_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ccuiio_Tests-umbrella.h"; sourceTree = "<group>"; };
 		0903C6BDA7F2A2D504F2D263A690E6BB /* RLMObjectSchema.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectSchema.h; path = include/RLMObjectSchema.h; sourceTree = "<group>"; };
-		092A765F9284BF1A465F626CC4C79AB8 /* mdc2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = mdc2.h; sourceTree = "<group>"; };
-		09313A592AA2E9015B5922CD31EA36E4 /* asn1_mac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = asn1_mac.h; sourceTree = "<group>"; };
 		09ACC84800C917C9237C826AA69FFBC7 /* list_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = list_notifier.cpp; path = Realm/ObjectStore/src/impl/list_notifier.cpp; sourceTree = "<group>"; };
-		0B172CC124EEAC621C75FB7881BB8AE7 /* cgisimple.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cgisimple.h; sourceTree = "<group>"; };
 		0B6902FEAFC64EA1C3670CDA7507DCF2 /* DDDispatchQueueLogFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDDispatchQueueLogFormatter.h; path = Classes/Extensions/DDDispatchQueueLogFormatter.h; sourceTree = "<group>"; };
 		0C57B6DF4B847FA97E20CD77BD835CDC /* SortDescriptor.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SortDescriptor.swift; path = RealmSwift/SortDescriptor.swift; sourceTree = "<group>"; };
-		0C5B12165F5DB9F4444C44A011DBCDE3 /* PotatsoBase-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PotatsoBase-Swift.h"; sourceTree = "<group>"; };
 		0CCE80DC2D26337A6A19FCBC2A3BAC54 /* RLMPlatform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMPlatform.h; path = include/RLMPlatform.h; sourceTree = "<group>"; };
 		0D9B45D2643A25F1A2288E7305E54391 /* DDMultiFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDMultiFormatter.h; path = Classes/Extensions/DDMultiFormatter.h; sourceTree = "<group>"; };
-		0E088563DEED69E0EAE5C8DB1F584883 /* crypto_stream_salsa20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa20.h; sourceTree = "<group>"; };
 		0E0B88592A44A6EEE71B3C38DBE0B135 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0E3902E335F060B4A073954AE3A0DC50 /* RLMAnalytics.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMAnalytics.mm; path = Realm/RLMAnalytics.mm; sourceTree = "<group>"; };
-		0E45FC4091CB71AFFEB2AABB597A3C7F /* pem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pem.h; sourceTree = "<group>"; };
-		0F32784A4BCBFE35B489D9CE0FB2AC3B /* crypto_scalarmult_curve25519.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult_curve25519.h; sourceTree = "<group>"; };
-		0F86E338EB3B4864BD32D3A16D235312 /* bio.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = bio.h; sourceTree = "<group>"; };
-		0F95BD810E2D46DE765C7A3E378E99E1 /* crypto_verify_64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_verify_64.h; sourceTree = "<group>"; };
 		0FFAED005FB36F86772F63F196B92D00 /* LogglyLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LogglyLogger.h; path = "LogglyLogger-CocoaLumberjack/LogglyLogger.h"; sourceTree = "<group>"; };
 		101B141FAF70695F00D11624C0616F4D /* NSError+RLMSync.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "NSError+RLMSync.h"; path = "include/NSError+RLMSync.h"; sourceTree = "<group>"; };
-		10D85BC5A95A38AADC0DAE153AF0DBC6 /* rand.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rand.h; sourceTree = "<group>"; };
 		11129E67142C38998E9B112FAA5BE656 /* RLMObject.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObject.mm; path = Realm/RLMObject.mm; sourceTree = "<group>"; };
-		1127F4D15ADD9D0EF43DEB8CF0DDB505 /* MMWormholeSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeSession.h; sourceTree = "<group>"; };
 		112CE195188C3409C8D560DCEDDDF65D /* RLMObjectStore.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectStore.mm; path = Realm/RLMObjectStore.mm; sourceTree = "<group>"; };
 		1173183A59DE94F30613962A10490C61 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		11B30FE977A1BAF7047B939A723E20AB /* Results.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Results.swift; path = RealmSwift/Results.swift; sourceTree = "<group>"; };
-		12E3238E58B8DCB1FE3C651DB828C221 /* DDXMLElement.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXMLElement.h; sourceTree = "<group>"; };
-		14111EA3B8D1E5E5102D143617199F08 /* rsa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rsa.h; sourceTree = "<group>"; };
-		1460EBB82609449516325A2C450D70EE /* pem2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pem2.h; sourceTree = "<group>"; };
-		147B49062DCE506ACA875F3EA3FCE111 /* engine.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = engine.h; sourceTree = "<group>"; };
 		14AFD0C61329CF3B23A5835FCD82F312 /* RLMSyncPermissionValue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionValue.h; path = include/RLMSyncPermissionValue.h; sourceTree = "<group>"; };
-		14D620266646163DFA7D42990A9756D5 /* oid.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = oid.h; sourceTree = "<group>"; };
 		1522E71DF2CD6F60D9CD455B4258A986 /* RLMObjectBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectBase.mm; path = Realm/RLMObjectBase.mm; sourceTree = "<group>"; };
 		15640F09A84B078EAD19AD6004545DA8 /* schema.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = schema.cpp; path = Realm/ObjectStore/src/schema.cpp; sourceTree = "<group>"; };
-		1618C207002B86B29F1CDC3630ED49A5 /* libsodium.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = libsodium.h; sourceTree = "<group>"; };
 		168DD1887B8F2DA6B72EF9E49B82DCAC /* RLMPredicateUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMPredicateUtil.mm; path = Realm/RLMPredicateUtil.mm; sourceTree = "<group>"; };
 		1788D4C6C4F0AEE9C728C858EB88C924 /* DDLog.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDLog.m; path = Classes/DDLog.m; sourceTree = "<group>"; };
-		1854AF7555D14AEA0CF21BE0ABF27851 /* sha256.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sha256.h; sourceTree = "<group>"; };
 		1923B52FBC6D3E8B66166FADDBB63782 /* SessionManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionManager.swift; path = Source/SessionManager.swift; sourceTree = "<group>"; };
-		19264ECFEED8E54A348040BE64587841 /* md4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md4.h; sourceTree = "<group>"; };
 		192A69A79D7EFA382ABA74F5408EA300 /* Context.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Context.swift; path = Cartography/Context.swift; sourceTree = "<group>"; };
 		19783151CB143B9178421B62627A758A /* Validation.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Validation.swift; path = Source/Validation.swift; sourceTree = "<group>"; };
 		1B2E242F41C48966E0F32C44A8368462 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		1B461B9F6D820B363D7585BED54BE322 /* Compound.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Compound.swift; path = Cartography/Compound.swift; sourceTree = "<group>"; };
-		1B7895F0D94E785E2DBBB03EEC086EC0 /* base64.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = base64.h; sourceTree = "<group>"; };
-		1BC9EE03815CC74DB7C60AC20EC0A1DA /* PotatsoModel.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PotatsoModel.h; sourceTree = "<group>"; };
-		1C07811D8545C44B353A92D3BD8B7C74 /* crypto_auth.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_auth.h; sourceTree = "<group>"; };
-		1C6F0F0D49C05960F3AC9E4033906202 /* cipher_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cipher_internal.h; sourceTree = "<group>"; };
 		1C82F71E2348876E289531E810DC8C84 /* LogglyLogger-CocoaLumberjack-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "LogglyLogger-CocoaLumberjack-dummy.m"; sourceTree = "<group>"; };
 		1C9986A9122B5E719189900EEF25D44A /* LogglyFields.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LogglyFields.h; path = "LogglyLogger-CocoaLumberjack/LogglyFields.h"; sourceTree = "<group>"; };
 		1D57ABFB630DD322BC237A8E4C62DFB3 /* Distribute.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Distribute.swift; path = Cartography/Distribute.swift; sourceTree = "<group>"; };
 		1DFD4E038F10B9CEBD3D5D1337A4175D /* ThreadSafeReference.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ThreadSafeReference.swift; path = RealmSwift/ThreadSafeReference.swift; sourceTree = "<group>"; };
 		1E471F93A88DE9C722A4ED5D7E60806C /* CocoaLumberjack.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = CocoaLumberjack.modulemap; sourceTree = "<group>"; };
-		1FF57B0800D968E714DE5F2D6F0CC89B /* md.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md.h; sourceTree = "<group>"; };
-		2001EA3091C6B4D653D4DCF75663476D /* pkcs12.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pkcs12.h; sourceTree = "<group>"; };
-		2037B01797201DDBECCFFA8D7E1BFF1B /* ripemd160.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ripemd160.h; sourceTree = "<group>"; };
-		20812D2878138EC04475873BCE93EEAF /* ssl3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl3.h; sourceTree = "<group>"; };
-		20B67019A2D1C5AEAE8B0636D096F016 /* certs.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = certs.h; sourceTree = "<group>"; };
 		210D16123C1CE619D50C642CA4479D4D /* Cartography-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Cartography-umbrella.h"; sourceTree = "<group>"; };
 		2148CFD1727152E7FA2223275FC1ED78 /* List.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = List.swift; path = RealmSwift/List.swift; sourceTree = "<group>"; };
 		21513A07EF54C6B098E37F1CD8F58EA1 /* Sync.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Sync.swift; path = RealmSwift/Sync.swift; sourceTree = "<group>"; };
 		21626F29BF836B9B5594AC9450B8ECED /* DDLog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDLog.h; path = Classes/DDLog.h; sourceTree = "<group>"; };
-		217083F2CE005C8B3DBAC56A6626733D /* sha512.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sha512.h; sourceTree = "<group>"; };
-		21A810FEA4F09160B29DE5FE3C6254CB /* md4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md4.h; sourceTree = "<group>"; };
 		225F9512A295A55F5B45FF5D2D2ABD23 /* system_configuration.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = system_configuration.cpp; path = Realm/ObjectStore/src/sync/impl/apple/system_configuration.cpp; sourceTree = "<group>"; };
 		22BF68E71D3C912D1225C9AEDC24C21D /* RLMSyncConfiguration_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncConfiguration_Private.h; path = include/RLMSyncConfiguration_Private.h; sourceTree = "<group>"; };
 		23DD81397A8229BA451CF7D10FF3BBAC /* Schema.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Schema.swift; path = RealmSwift/Schema.swift; sourceTree = "<group>"; };
 		250427255CD70FC8AC241EFB9EAB3B5F /* RLMSyncCredentials.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSyncCredentials.m; path = Realm/RLMSyncCredentials.m; sourceTree = "<group>"; };
 		25917BD64825A4E9FB3AA09EC89F8775 /* Notifications.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Notifications.swift; path = Source/Notifications.swift; sourceTree = "<group>"; };
 		25C466EC61D92B3B0246C98D5A9B001B /* Property.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Property.swift; path = RealmSwift/Property.swift; sourceTree = "<group>"; };
-		267DA4490DD7D16FAE2DE73B3D166642 /* timing.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = timing.h; sourceTree = "<group>"; };
-		26AED2E6F7C936B7F6133984242C7FE5 /* pk.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pk.h; sourceTree = "<group>"; };
-		26BA1BEC158CAF567819E8B87C11A0AE /* cmac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cmac.h; sourceTree = "<group>"; };
-		26C04108FEFE8339E5A5096F93F6B43C /* crypto_generichash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_generichash.h; sourceTree = "<group>"; };
 		26E4B0E1E98A64709016875C3630C028 /* RLMSyncUtil_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncUtil_Private.h; path = include/RLMSyncUtil_Private.h; sourceTree = "<group>"; };
 		277F43FE94568B7A00E6F04E9A154494 /* RLMSyncManager.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncManager.mm; path = Realm/RLMSyncManager.mm; sourceTree = "<group>"; };
 		28F94C5FFBFBC3DD9B5BF4E5C2686834 /* Realm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Realm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		297C795A679ABE9408EE1C82BAAC9E81 /* ui.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ui.h; sourceTree = "<group>"; };
-		2AB05735A146ED409E9A79D5B14CA4B3 /* crypto_onetimeauth_poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_onetimeauth_poly1305.h; sourceTree = "<group>"; };
-		2AFC46300C75A5F78B50444B76D40CDC /* ecdsa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecdsa.h; sourceTree = "<group>"; };
-		2B0C4487073EC5CB31FF76A565D02739 /* ocsp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ocsp.h; sourceTree = "<group>"; };
-		2B7772DE245E19B272CB703A804830FA /* pcrs.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pcrs.h; sourceTree = "<group>"; };
 		2B7E5A7DBBFF06DF272215F39CD1575D /* RLMAccessor.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMAccessor.mm; path = Realm/RLMAccessor.mm; sourceTree = "<group>"; };
-		2BB2E30D073D3A000C3520D1131DC089 /* crypto_stream_salsa2012.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa2012.h; sourceTree = "<group>"; };
 		2C731006FC07E7C4535E94F7F231C11A /* shared_realm.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = shared_realm.cpp; path = Realm/ObjectStore/src/shared_realm.cpp; sourceTree = "<group>"; };
 		2C78F7DD9871AF8727B894A01BE24463 /* RLMSyncPermissionOfferResponse.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSyncPermissionOfferResponse.m; path = Realm/RLMSyncPermissionOfferResponse.m; sourceTree = "<group>"; };
 		2CD6415F53C4C7F549DE9A4ABE80FE9E /* RealmSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = RealmSwift.xcconfig; sourceTree = "<group>"; };
@@ -579,489 +534,245 @@
 		2E453F5BF1390B0F9BA431E458913783 /* SessionDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SessionDelegate.swift; path = Source/SessionDelegate.swift; sourceTree = "<group>"; };
 		2E4ED9A1C902BE401B59868B44783CCC /* LayoutGuide.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutGuide.swift; path = Cartography/LayoutGuide.swift; sourceTree = "<group>"; };
 		2E77919B37465ECD0BF1713EF3E15078 /* RLMSchema.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSchema.h; path = include/RLMSchema.h; sourceTree = "<group>"; };
-		2F0160CEA8DF7E9AE3EBB2B00DF4E5A3 /* symhacks.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = symhacks.h; sourceTree = "<group>"; };
-		2F1BA4EE626433D9FE0F511E9967DFDD /* utils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = utils.h; sourceTree = "<group>"; };
-		2F91A1238115E9FEFA9760D60D4F571F /* ssl23.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl23.h; sourceTree = "<group>"; };
-		2FC3D37D8AC59FF80901A0E203D52BEE /* ecp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecp.h; sourceTree = "<group>"; };
-		3054B28D09A68D86D2142A467E5FFEA1 /* net.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = net.h; sourceTree = "<group>"; };
-		30655D1B7717BAAE3B9A31957A7351E3 /* maxminddb_config.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = maxminddb_config.h; sourceTree = "<group>"; };
 		3066C3D9DFC6DF020750B89633A1DE21 /* object_store.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = object_store.cpp; path = Realm/ObjectStore/src/object_store.cpp; sourceTree = "<group>"; };
 		30B79903413CA24663FFB0F1F8802BBF /* external_commit_helper.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = external_commit_helper.cpp; path = Realm/ObjectStore/src/impl/apple/external_commit_helper.cpp; sourceTree = "<group>"; };
-		310E63C15DA4D9D07C96732BC4B79107 /* PotatsoLibrary.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PotatsoLibrary.h; sourceTree = "<group>"; };
 		31A019CD667061C15A6039A3F3787817 /* Constraint.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constraint.swift; path = Cartography/Constraint.swift; sourceTree = "<group>"; };
 		31D7BFC9C619501048049477650B49D3 /* RLMSyncManager_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncManager_Private.h; path = include/RLMSyncManager_Private.h; sourceTree = "<group>"; };
-		3236B70EA8DCF94AABE554DC8C63D708 /* kssl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = kssl.h; sourceTree = "<group>"; };
-		3381DB323C6AA50F47F9C838854E2941 /* DDXMLElementAdditions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXMLElementAdditions.h; sourceTree = "<group>"; };
-		338943F2FD2B634D3FF7FF77C727A7D1 /* Eureka-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Eureka-Swift.h"; sourceTree = "<group>"; };
-		34281118D9BB8E06D1AD2142B21B43D6 /* stack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = stack.h; sourceTree = "<group>"; };
 		35053D04B329B9FECED22C8EE464DB5A /* DDContextFilterLogFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDContextFilterLogFormatter.m; path = Classes/Extensions/DDContextFilterLogFormatter.m; sourceTree = "<group>"; };
 		356B5B6DF29FEB2E05F016CA204AB1CB /* ConstraintGroup.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ConstraintGroup.swift; path = Cartography/ConstraintGroup.swift; sourceTree = "<group>"; };
-		36EB093223A32F0620838ECA66FB54F7 /* crypto_stream_xchacha20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_xchacha20.h; sourceTree = "<group>"; };
 		3814E18588AD190C6CFCA67A325DF707 /* NetworkReachabilityManager.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = NetworkReachabilityManager.swift; path = Source/NetworkReachabilityManager.swift; sourceTree = "<group>"; };
-		38F8B232B31003B8FF513AB219ED882F /* asn1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = asn1.h; sourceTree = "<group>"; };
-		39C12E65547AADF19BE019ACCD627952 /* crypto_sign_ed25519.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_sign_ed25519.h; sourceTree = "<group>"; };
 		3A9F922DA20AC5933F690F322DE6EF10 /* list.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = list.cpp; path = Realm/ObjectStore/src/list.cpp; sourceTree = "<group>"; };
 		3AF680FAF220957F644F09C6F90849A2 /* librealmcore-ios.a */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = archive.ar; name = "librealmcore-ios.a"; path = "core/librealmcore-ios.a"; sourceTree = "<group>"; };
 		3B3032BB6EB22B98F3FEA94662808EA4 /* RLMSyncPermissionOfferResponse.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionOfferResponse.h; path = include/RLMSyncPermissionOfferResponse.h; sourceTree = "<group>"; };
 		3B3CB79232EE2F4E0873E6336CAD98F7 /* Async.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Async.swift; path = Sources/Async/Async.swift; sourceTree = "<group>"; };
 		3B45B747CF1E4998851409BD9C708349 /* RLMQueryUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMQueryUtil.mm; path = Realm/RLMQueryUtil.mm; sourceTree = "<group>"; };
-		3BABE3CCA55E06BF22D20F3B58838898 /* crypto_core_ed25519.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_ed25519.h; sourceTree = "<group>"; };
-		3C56BD76E3F5F8F67379FC6B025F4D07 /* crypto_core_salsa2012.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa2012.h; sourceTree = "<group>"; };
-		3D3D5C55ED7CE28F14EF1ED9B7642AB3 /* x509v3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509v3.h; sourceTree = "<group>"; };
-		3D5DACC5498754ABA247A5970D2F0F31 /* PotatsoBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PotatsoBase.h; sourceTree = "<group>"; };
 		3DD5A46B28AF3CA3EDB0EB74D8B3D859 /* Alamofire.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Alamofire.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		3DD86EA3E4479DEC572FC9C587ECA620 /* DDXMLPrivate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXMLPrivate.h; sourceTree = "<group>"; };
-		3E2E641091D9928DA5288AF616FE030B /* ecdh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecdh.h; sourceTree = "<group>"; };
-		3E7F8E2834953ACB35344953A867E1CC /* sha1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sha1.h; sourceTree = "<group>"; };
-		3EF4D9D944D3DE8BF624B2AEFABE5719 /* rc4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rc4.h; sourceTree = "<group>"; };
 		3F79BE16874893DA485B52AEDFFADC41 /* KeychainAccess.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = KeychainAccess.xcconfig; sourceTree = "<group>"; };
-		3F8FDFA0C91047FC40D93E6C85EE5D2B /* pkcs11.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pkcs11.h; sourceTree = "<group>"; };
 		40631E389091971E223ECFC1DA9CDC8D /* Extensions.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Extensions.swift; path = Cartography/Extensions.swift; sourceTree = "<group>"; };
 		40B6FCE59B36172F96D223C54F6B5EA4 /* Dimension.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Dimension.swift; path = Cartography/Dimension.swift; sourceTree = "<group>"; };
-		40E21C7CE7341FFEC235CFD9500D906A /* opensslconf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = opensslconf.h; sourceTree = "<group>"; };
 		411A33D26899A71947FB304175D09D6D /* RLMSwiftSupport.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSwiftSupport.m; path = Realm/RLMSwiftSupport.m; sourceTree = "<group>"; };
-		413F6C95EF3F3A8789D73ACA9DCA0EC9 /* whrlpool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = whrlpool.h; sourceTree = "<group>"; };
 		4193393958AB3DF3026E61C1C0AD623B /* Pods-ccuiio_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ccuiio_Tests-dummy.m"; sourceTree = "<group>"; };
 		42D208F5E1B8AB4E37E468C5D4970283 /* Object.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Object.swift; path = RealmSwift/Object.swift; sourceTree = "<group>"; };
-		42F0832365EAFAA8766A916F5578AFFD /* actions.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = actions.h; sourceTree = "<group>"; };
-		43C7DFFDFDBA4BE848961337C29FFF9C /* ec.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ec.h; sourceTree = "<group>"; };
 		4483CE8D05F2F3E9F2D060BEBDBE4C3E /* Migration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Migration.swift; path = RealmSwift/Migration.swift; sourceTree = "<group>"; };
-		44C7317FF7BD0F7D54B3B27A451AA033 /* crypto_scalarmult.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult.h; sourceTree = "<group>"; };
-		451914004E3B25587E99890400923E1F /* ssr_qr_code.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssr_qr_code.h; sourceTree = "<group>"; };
-		451E6927DC071201CCD6008B16CF4CAF /* objects.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = objects.h; sourceTree = "<group>"; };
-		4523812CF92868865D2F37C8C70ED48F /* pcre.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pcre.h; sourceTree = "<group>"; };
 		45402B0343AFF09AA073C2DDCE3F9E39 /* Pods-ccuiio_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ccuiio_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		459CE0FDD03A3A27CE9F50CE54F3727E /* Request.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Request.swift; path = Source/Request.swift; sourceTree = "<group>"; };
-		465F91ABC9788FB11758A27B118C77EF /* MMWormholeTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeTransiting.h; sourceTree = "<group>"; };
 		476D2A68EF628241AFD888334439463F /* RLMObjectStore.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectStore.h; path = include/RLMObjectStore.h; sourceTree = "<group>"; };
 		48015400FB80B2A287EE4436BE927520 /* DDLegacyMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDLegacyMacros.h; path = Classes/DDLegacyMacros.h; sourceTree = "<group>"; };
 		49346B69F95AA10C1E6A4985BB48436C /* DispatchQueue+Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "DispatchQueue+Alamofire.swift"; path = "Source/DispatchQueue+Alamofire.swift"; sourceTree = "<group>"; };
 		4936D69046446606308F16F8C1CCF9B2 /* LogglyFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = LogglyFormatter.h; path = "LogglyLogger-CocoaLumberjack/LogglyFormatter.h"; sourceTree = "<group>"; };
-		496AF6901D73F32EAC24483D278ABB47 /* cmac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cmac.h; sourceTree = "<group>"; };
 		498658185B3B0765DAAFF273BB8D53FB /* thread_safe_reference.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = thread_safe_reference.cpp; path = Realm/ObjectStore/src/thread_safe_reference.cpp; sourceTree = "<group>"; };
 		4A331DBD92105164F0646E3480218752 /* ParameterEncoding.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ParameterEncoding.swift; path = Source/ParameterEncoding.swift; sourceTree = "<group>"; };
-		4A51F66A6B436B6EE08A21975627AB13 /* x509.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509.h; sourceTree = "<group>"; };
-		4A9A39301FD9E6A0E0A68D94C215241B /* sp_config.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sp_config.h; sourceTree = "<group>"; };
-		4AD89507FDD0C0142875E3C76E580242 /* GCDAsyncSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GCDAsyncSocket.h; sourceTree = "<group>"; };
-		4B1EEF75BE9F7EE0D819D50995E67E33 /* randombytes_sysrandom.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = randombytes_sysrandom.h; sourceTree = "<group>"; };
-		4B5CB7628C1A2B30F33C879DCE37CAEE /* MMWormholeCoordinatedFileTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeCoordinatedFileTransiting.h; sourceTree = "<group>"; };
-		4BF1901C93D1B128B44306597ABB59C0 /* ssl_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl_internal.h; sourceTree = "<group>"; };
-		4C0110E3DB1FFAEADF57848E857B4154 /* export.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = export.h; sourceTree = "<group>"; };
 		4C30512F5910330BDAF257A70715A182 /* DDLogMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDLogMacros.h; path = Classes/DDLogMacros.h; sourceTree = "<group>"; };
 		4C504B6EB8DFC36BFD449345082946BB /* Realm-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Realm-dummy.m"; sourceTree = "<group>"; };
 		4C5DF4256C84B1CC3B757C9C75A08E57 /* LogglyLogger-CocoaLumberjack-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LogglyLogger-CocoaLumberjack-umbrella.h"; sourceTree = "<group>"; };
 		4CF22D76E6E8844146142077EF0ACAC7 /* sync_metadata.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_metadata.cpp; path = Realm/ObjectStore/src/sync/impl/sync_metadata.cpp; sourceTree = "<group>"; };
-		4D9B078BDDE480A960CEB4F3944E4D68 /* internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = internal.h; sourceTree = "<group>"; };
-		4DE5F9FA457144CD5F9038A7F4FA3D87 /* sodium.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sodium.h; sourceTree = "<group>"; };
 		4DF36911B85134CD5BECBC98C8339D98 /* index_set.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = index_set.cpp; path = Realm/ObjectStore/src/index_set.cpp; sourceTree = "<group>"; };
 		4E7FF6A47B887126618D3A11AE293E85 /* View.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = View.swift; path = Cartography/View.swift; sourceTree = "<group>"; };
 		4EC06547FF02094D04930E480D6DB3CE /* AutoresizingMaskLayoutProxy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AutoresizingMaskLayoutProxy.swift; path = Cartography/AutoresizingMaskLayoutProxy.swift; sourceTree = "<group>"; };
 		4F20C43737F228F099CDE6D3D627F8F5 /* RLMCollection.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMCollection.h; path = include/RLMCollection.h; sourceTree = "<group>"; };
 		4F2614FA97C2975169394BF3587AE426 /* DDAssertMacros.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDAssertMacros.h; path = Classes/DDAssertMacros.h; sourceTree = "<group>"; };
 		4F633DDF1BF44CCA7ED2334A959D5369 /* CocoaLumberjack.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = CocoaLumberjack.swift; path = Classes/CocoaLumberjack.swift; sourceTree = "<group>"; };
-		4FAF343EAADA03B8A406C4CB63ED2B08 /* filters.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = filters.h; sourceTree = "<group>"; };
 		4FEC5A6397C8DD7AEF2B36A0F3D15167 /* DDContextFilterLogFormatter.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDContextFilterLogFormatter.h; path = Classes/Extensions/DDContextFilterLogFormatter.h; sourceTree = "<group>"; };
 		5057A966F627722758BCC147672724AB /* DDTTYLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDTTYLogger.h; path = Classes/DDTTYLogger.h; sourceTree = "<group>"; };
-		509C4E230F8A964E0AA9EA596A2D3F56 /* crypto_pwhash_argon2id.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_argon2id.h; sourceTree = "<group>"; };
-		512D22C860B9944F46720E941D2E5C87 /* crypto_pwhash_argon2i.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_argon2i.h; sourceTree = "<group>"; };
 		51411856D8D04734E23BEA19515762E1 /* RLMUpdateChecker.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMUpdateChecker.mm; path = Realm/RLMUpdateChecker.mm; sourceTree = "<group>"; };
-		519E76664CD447A9FBAA57D9AE7B1566 /* MMWormholeSessionContextTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionContextTransiting.h; sourceTree = "<group>"; };
 		53B7ED2FB9A189460289CEC784F3E552 /* LogglyLogger-CocoaLumberjack-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "LogglyLogger-CocoaLumberjack-prefix.pch"; sourceTree = "<group>"; };
-		552F284D8D67673AB97980C44720D5FB /* threading.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = threading.h; sourceTree = "<group>"; };
 		555339188C4A213594713A8F9523F8C8 /* RLMSyncUser.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncUser.mm; path = Realm/RLMSyncUser.mm; sourceTree = "<group>"; };
-		557101A34BDC392CB9B24AF984B2209B /* cgiedit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cgiedit.h; sourceTree = "<group>"; };
-		5588690AAD99D1AE41C1B700C125CBBF /* core.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = core.h; sourceTree = "<group>"; };
 		559129F9D9412E5628FF6A0CF3FF6EB3 /* RLMSyncPermissionChange.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionChange.h; path = include/RLMSyncPermissionChange.h; sourceTree = "<group>"; };
 		56047602FF5CD57BBEFB82F5929633BB /* Constrain.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Constrain.swift; path = Cartography/Constrain.swift; sourceTree = "<group>"; };
 		560D8913BB0968F1579C61172BC4A1FB /* RLMSyncSession.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncSession.h; path = include/RLMSyncSession.h; sourceTree = "<group>"; };
 		566108DE019EBA2BA26D6E07E4EFBCCB /* RLMRealm_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealm_Private.h; path = include/RLMRealm_Private.h; sourceTree = "<group>"; };
-		5697E2C2EB9C1603E1AC35A983EAAAE7 /* crypto_box.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_box.h; sourceTree = "<group>"; };
-		56987CFB4D2A49DE855B88BFB3248F68 /* crypto_hash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_hash.h; sourceTree = "<group>"; };
-		572C8CD98FA4A6663E0B906C70E04BFE /* xtea.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = xtea.h; sourceTree = "<group>"; };
 		58427304CCB77238F50BB8F7BB7DF5B3 /* KeychainAccess-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KeychainAccess-prefix.pch"; sourceTree = "<group>"; };
 		58F66BBD3AB2FF4EA8EC7D53FFD0A706 /* RLMObjectBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectBase.h; path = include/RLMObjectBase.h; sourceTree = "<group>"; };
 		5907446599CDEDC09EC953EDE9E7E4C8 /* RLMRealmConfiguration.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealmConfiguration.mm; path = Realm/RLMRealmConfiguration.mm; sourceTree = "<group>"; };
 		59662146D65B5FC0EF7EE9F34D64590B /* DDTTYLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDTTYLogger.m; path = Classes/DDTTYLogger.m; sourceTree = "<group>"; };
 		5991316865B957A0DECD9DA4A1665CD9 /* AsyncSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AsyncSwift-prefix.pch"; sourceTree = "<group>"; };
 		59FB4B09AE4B533E24B103206759964A /* RLMProperty_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMProperty_Private.h; path = include/RLMProperty_Private.h; sourceTree = "<group>"; };
-		5A0BB19ABB7E96EBCA8966FE5E2C7DAD /* crypto_shorthash_siphash24.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_shorthash_siphash24.h; sourceTree = "<group>"; };
 		5A235FF1AF2B926F2672CB8967DA09E8 /* RLMRealm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealm.h; path = include/RLMRealm.h; sourceTree = "<group>"; };
-		5B2F6DB2274E19F45B3CF5063582F5B6 /* debug.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = debug.h; sourceTree = "<group>"; };
-		5BA099C24192E9D55769E00B1B348A23 /* crypto_aead_xchacha20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_aead_xchacha20poly1305.h; sourceTree = "<group>"; };
-		5BB1BCFDA88DA167ED8D1066B7FAEEFC /* crypto_secretbox.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox.h; sourceTree = "<group>"; };
 		5BF08A8CED8853646659A1788A6B19EF /* Realm.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Realm.swift; path = RealmSwift/Realm.swift; sourceTree = "<group>"; };
 		5CAE777F894BF7066F150A7D9815BE2B /* ResponseSerialization.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ResponseSerialization.swift; path = Source/ResponseSerialization.swift; sourceTree = "<group>"; };
-		5D4EAEB0F11CB5152BA7E8BD6F9ECE9A /* cms.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cms.h; sourceTree = "<group>"; };
-		5D68BD1E7D58EB2EFA0ACA345C0C3788 /* sockaddr_universal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sockaddr_universal.h; sourceTree = "<group>"; };
-		5E2918957941263D22C16D8E23787548 /* dh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = dh.h; sourceTree = "<group>"; };
 		5E384310824535747C8C6312AA3A8649 /* RLMAccessor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMAccessor.h; path = include/RLMAccessor.h; sourceTree = "<group>"; };
-		5EEFABD6047CFB9D9615AF03E1E0CC5E /* des.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = des.h; sourceTree = "<group>"; };
 		5F91069945DEB71AF42C0E4E85219B90 /* RLMSyncPermissionOffer.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSyncPermissionOffer.m; path = Realm/RLMSyncPermissionOffer.m; sourceTree = "<group>"; };
-		601FE4CA6288DDD35B895261F9B897BF /* ui_compat.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ui_compat.h; sourceTree = "<group>"; };
-		609AE3E63C61F5CD089BDD6D8757EC99 /* opensslv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = opensslv.h; sourceTree = "<group>"; };
 		60D693BEA3D0D9FAD5981F5DFC7630D5 /* RealmCollection.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmCollection.swift; path = RealmSwift/RealmCollection.swift; sourceTree = "<group>"; };
-		60E711F1DD9FFCA2FCDB94ECC141F69D /* config.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = config.h; sourceTree = "<group>"; };
 		610C639D00A4229E016C7BAFDAFBBED1 /* uuid.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = uuid.cpp; path = Realm/ObjectStore/src/util/uuid.cpp; sourceTree = "<group>"; };
-		611473B7F992266173D76DE966624A1A /* ssl_cookie.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl_cookie.h; sourceTree = "<group>"; };
 		611F49E7E41D8E9AEC4A2E32DE88FBA3 /* DDOSLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDOSLogger.m; path = Classes/DDOSLogger.m; sourceTree = "<group>"; };
-		61B795FB2F1D1216724604A31147AE27 /* uv-errno.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "uv-errno.h"; sourceTree = "<group>"; };
 		63006EE8CC95E0B938923CBEF60767B8 /* LogglyLogger_CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = LogglyLogger_CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		64790ACFA83E4F5293F787EC1FA5970B /* memory_buffer_alloc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = memory_buffer_alloc.h; sourceTree = "<group>"; };
 		64912593ECBC96AA90F7241E338EA0B8 /* DDMultiFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDMultiFormatter.m; path = Classes/Extensions/DDMultiFormatter.m; sourceTree = "<group>"; };
-		64D40E7990964ED448E745D11934AFEA /* havege.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = havege.h; sourceTree = "<group>"; };
-		66A93D6073476AE2501DDDAE419DAEE4 /* krb5_asn.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = krb5_asn.h; sourceTree = "<group>"; };
 		6717D489C5C3914CE36D242A4D62077F /* RLMObjectSchema_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectSchema_Private.h; path = include/RLMObjectSchema_Private.h; sourceTree = "<group>"; };
-		671F6057EEDDC63A9F07EA0F9B2CF16D /* ossl_typ.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ossl_typ.h; sourceTree = "<group>"; };
-		6798141CA8B19A7F561C59BAA347C37E /* bignum.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = bignum.h; sourceTree = "<group>"; };
 		687DA5D88A3D2C85659CF84F67D87B88 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		697642925DE92440B6B52A1D2496BB60 /* Pods-ccuiio_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ccuiio_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
-		6C388FC11C9C9538CABF5F5054177D87 /* rsa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rsa.h; sourceTree = "<group>"; };
-		6CC222955032B38B7AEBAB9F4143B057 /* ssl_ticket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl_ticket.h; sourceTree = "<group>"; };
 		6CE2C28B4E9ABBA66F1B70A3A2F202E5 /* RLMProperty.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMProperty.mm; path = Realm/RLMProperty.mm; sourceTree = "<group>"; };
 		6D3F51D33939A01BC52AC7EF28C3E9CF /* AsyncSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "AsyncSwift-dummy.m"; sourceTree = "<group>"; };
-		6FFBE04937CE03660B7CEE57E7E8C280 /* DDXML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXML.h; sourceTree = "<group>"; };
 		703B408AC7DEB7193551BA99D3BEDFC6 /* RLMSyncPermission.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermission.h; path = include/RLMSyncPermission.h; sourceTree = "<group>"; };
-		708283D377970C4C67A98442D4D1C38D /* version.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = version.h; sourceTree = "<group>"; };
 		70A74B8B0FE84B44F397CAFE59B69ADB /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		71126F1B3C50B5E77DA3916A95B1EB69 /* RLMSyncPermission.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSyncPermission.m; path = Realm/RLMSyncPermission.m; sourceTree = "<group>"; };
 		713BFF2E1AF95995328C78ACD8B50732 /* binding_callback_thread_observer.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = binding_callback_thread_observer.cpp; path = Realm/ObjectStore/src/binding_callback_thread_observer.cpp; sourceTree = "<group>"; };
-		7151665E5C443EFE59E27070EFF1A279 /* runtime.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = runtime.h; sourceTree = "<group>"; };
 		7164FBC82F2B976EA78C375377FF7CA1 /* RLMConstants.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMConstants.h; path = include/RLMConstants.h; sourceTree = "<group>"; };
-		7166EB6C3B8A1851E87D5DB8230961C7 /* crypto_core_salsa20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa20.h; sourceTree = "<group>"; };
 		7174235AAA1FD7FF94170BD6B38BD9A1 /* sync_file.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_file.cpp; path = Realm/ObjectStore/src/sync/impl/sync_file.cpp; sourceTree = "<group>"; };
-		71B4CFC29F9B35E71D047AA021BC00EC /* asn1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = asn1.h; sourceTree = "<group>"; };
-		72206287D48E2966F8F9DBA74CA5DCC2 /* urlmatch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = urlmatch.h; sourceTree = "<group>"; };
 		7282C139D3A43944B779397F0F35704A /* RealmSwift-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "RealmSwift-dummy.m"; sourceTree = "<group>"; };
-		73B28B58B9C6B04EEBCE5F1C0A3C0ACB /* md_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md_internal.h; sourceTree = "<group>"; };
-		741EC7DD2B1A6CF581E977FA350E633D /* camellia.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = camellia.h; sourceTree = "<group>"; };
 		762A075354C9C2117028694BF6708C80 /* RLMUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMUtil.mm; path = Realm/RLMUtil.mm; sourceTree = "<group>"; };
-		7728860B54B1759B3B74B94A83EF65F7 /* ssr_executive.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssr_executive.h; sourceTree = "<group>"; };
-		7792EA6A6B203E7E57CB5F3525D82EDF /* MMWormhole.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormhole.h; sourceTree = "<group>"; };
-		789BB6F34B847982EBF8B98CD547335F /* crypto_kdf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_kdf.h; sourceTree = "<group>"; };
 		79807AC6A4E1BAB1646DAB4DA7EB9BAA /* Expression.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Expression.swift; path = Cartography/Expression.swift; sourceTree = "<group>"; };
 		7A3646A4326696BD46ECFC8AD80F48AD /* Property.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Property.swift; path = Cartography/Property.swift; sourceTree = "<group>"; };
-		7A58F73D41726C655AA00F07034B35A5 /* maxminddb.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = maxminddb.h; sourceTree = "<group>"; };
 		7A8373D74B34C8D2D5B3AC8BD061EAD8 /* Async.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Async.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		7AF1AC0A3AA7DE3FE36175DB9D7ADB20 /* DDASLLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDASLLogger.m; path = Classes/DDASLLogger.m; sourceTree = "<group>"; };
 		7AF283A2EAD6AEE821CC92A638376D77 /* RLMObject.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObject.h; path = include/RLMObject.h; sourceTree = "<group>"; };
 		7B12356063FCBAD0DB1D2A7159286DB1 /* RLMSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSchema.mm; path = Realm/RLMSchema.mm; sourceTree = "<group>"; };
-		7BB7370AD5039056C1B9931818CCB3ED /* pcreposix.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pcreposix.h; sourceTree = "<group>"; };
 		7BC1BC5654C0FE616E460E213F62726F /* Keychain.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Keychain.swift; path = Lib/KeychainAccess/Keychain.swift; sourceTree = "<group>"; };
-		7C197D1120D1CE6B37BEC4D98E5ED591 /* crypto_core_salsa208.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_salsa208.h; sourceTree = "<group>"; };
-		7C8D63F3AB018444DF19CB56DCAEFF5E /* crypto_auth_hmacsha512.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha512.h; sourceTree = "<group>"; };
-		7CDEC29105A2D0B771F2393356BA7342 /* YAMLSerialization.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = YAMLSerialization.h; sourceTree = "<group>"; };
 		7FBD5666DD8E996ACC08B6193A7FCD2F /* NSError+RLMSync.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "NSError+RLMSync.m"; path = "Realm/NSError+RLMSync.m"; sourceTree = "<group>"; };
 		7FFB424CE74D7CC7E4948BBD05228D90 /* RLMRealm_Dynamic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealm_Dynamic.h; path = include/RLMRealm_Dynamic.h; sourceTree = "<group>"; };
 		803CCE0D1A4585B7F0AD4B59BA161F0A /* RLMMigration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMMigration.h; path = include/RLMMigration.h; sourceTree = "<group>"; };
-		8054B3A641D8E75FAA3DA91D4ADEAC5B /* pem.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pem.h; sourceTree = "<group>"; };
-		80EC02BC0599A999A8DC5E78E7963A56 /* ts.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ts.h; sourceTree = "<group>"; };
-		81CF1F20B5E192C8BAC417989E8E8DA9 /* aes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = aes.h; sourceTree = "<group>"; };
-		824803C91027A5B337CD7155A5B07052 /* sha.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = sha.h; sourceTree = "<group>"; };
-		8264913AAA3D1A71FF14164B2E68B3D5 /* deanimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = deanimate.h; sourceTree = "<group>"; };
-		842CC46C19FC5CD43C5A126BB16ABB9E /* MMWormholeUmbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeUmbrella.h; sourceTree = "<group>"; };
 		844BC7C7C5EC80ADDD27999AFB0F5DCF /* object.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = object.cpp; path = Realm/ObjectStore/src/object.cpp; sourceTree = "<group>"; };
 		851EBD3D031F948B687007327DB71A8F /* DDDispatchQueueLogFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDDispatchQueueLogFormatter.m; path = Classes/Extensions/DDDispatchQueueLogFormatter.m; sourceTree = "<group>"; };
-		8529D36E3AAC05B56B48794D7AE7FACF /* crypto_pwhash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash.h; sourceTree = "<group>"; };
 		8529D6247DEA8FE8FAE80A418435A245 /* ServerTrustPolicy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ServerTrustPolicy.swift; path = Source/ServerTrustPolicy.swift; sourceTree = "<group>"; };
-		85590D61D76AE39FBCA67C9422CFAAD2 /* blowfish.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = blowfish.h; sourceTree = "<group>"; };
 		85787B1BE65626FA912029644444232D /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		86438091D92D828A0CEBE0B37C4BCBAB /* LayoutProxy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutProxy.swift; path = Cartography/LayoutProxy.swift; sourceTree = "<group>"; };
 		86B707D79E5CE5BC9A9E53778B005B2E /* RLMObjectBase_Dynamic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectBase_Dynamic.h; path = include/RLMObjectBase_Dynamic.h; sourceTree = "<group>"; };
-		876F4FF74315F3E51C30B1B5E2B490E3 /* crypto_secretbox_xsalsa20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox_xsalsa20poly1305.h; sourceTree = "<group>"; };
 		87CD9F4F504AA92BC1B855E0EFA6FE02 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8800508E16FB337BB062D3C803E3A813 /* Alamofire-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Alamofire-dummy.m"; sourceTree = "<group>"; };
-		8896DCEBB43619E07720D39F38DA6FEB /* TunnelInterface.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = TunnelInterface.h; sourceTree = "<group>"; };
 		88F88BD1FC3E427F3EAB5A43512178B5 /* Alamofire.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Alamofire.xcconfig; sourceTree = "<group>"; };
 		896AEF99E5345762212BAC592A72A2BD /* LayoutSupportProxy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutSupportProxy.swift; path = Cartography/LayoutSupportProxy.swift; sourceTree = "<group>"; };
-		89AF487177066C35D7EE024062F5A348 /* actionlist.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = actionlist.h; sourceTree = "<group>"; };
 		89D59B0D3E21FBFBF82B19F296E54DA5 /* RealmConfiguration.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = RealmConfiguration.swift; path = RealmSwift/RealmConfiguration.swift; sourceTree = "<group>"; };
 		8A0E213C3858CDB7FECD7143304ABEA3 /* RLMSyncManager.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncManager.h; path = include/RLMSyncManager.h; sourceTree = "<group>"; };
 		8A6C5A0196AEC65DC14E8F7098A9FD60 /* RLMCollection.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMCollection.mm; path = Realm/RLMCollection.mm; sourceTree = "<group>"; };
-		8B35C5527453705E1A432AD6BCE12F87 /* crypto_onetimeauth.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_onetimeauth.h; sourceTree = "<group>"; };
-		8B63754D403DA4C9D5A1999957DDA27D /* des_old.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = des_old.h; sourceTree = "<group>"; };
-		8B786EF25A5AAA7CC2620FCBF43AE127 /* crypto_pwhash_scryptsalsa208sha256.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_pwhash_scryptsalsa208sha256.h; sourceTree = "<group>"; };
-		8B88817EBA8924052A26127B738EA013 /* crypto_box_curve25519xchacha20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_box_curve25519xchacha20poly1305.h; sourceTree = "<group>"; };
-		8C017C716E7668A6A6D7A18FCE159C88 /* MMWormholeSessionMessageTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionMessageTransiting.h; sourceTree = "<group>"; };
-		8CCF212D22B13CF6E2EE688416C6FD94 /* asn1t.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = asn1t.h; sourceTree = "<group>"; };
-		8CEC409D729E7836AC74F39CAA0EEDD1 /* lhash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = lhash.h; sourceTree = "<group>"; };
-		8D1548037CEE169A9A320514B8C71914 /* parsers.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = parsers.h; sourceTree = "<group>"; };
 		8DCB344A9A8CDCBDE5C0AC0C4B7D2609 /* SwiftVersion.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = SwiftVersion.swift; path = RealmSwift/SwiftVersion.swift; sourceTree = "<group>"; };
-		8E0699A210DC53D6C2910F845FEE7C15 /* bn_mul.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = bn_mul.h; sourceTree = "<group>"; };
-		8E7AAAD0EB402005A305CD55500DDAA2 /* crypto_core_hchacha20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_hchacha20.h; sourceTree = "<group>"; };
-		8ED6CD5FB8B3E0D46AF69FEAF94C017A /* uv-darwin.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "uv-darwin.h"; sourceTree = "<group>"; };
-		8EE0773A910760D3E701D7DA10D20401 /* list.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = list.h; sourceTree = "<group>"; };
 		8F06B1BFD7EEDE989B541AAEC2C94316 /* RLMOptionalBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMOptionalBase.h; path = include/RLMOptionalBase.h; sourceTree = "<group>"; };
 		8F14957D4E414C24894F4A8185254E80 /* DDOSLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDOSLogger.h; path = Classes/DDOSLogger.h; sourceTree = "<group>"; };
 		8F96CB94B6761811739E253D06A2D10E /* RLMSyncUser.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncUser.h; path = include/RLMSyncUser.h; sourceTree = "<group>"; };
-		8FDEA22C45F4F87CBB07622EEB2A622E /* err.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = err.h; sourceTree = "<group>"; };
 		902597590F250198F186FE13BB302CEC /* transact_log_handler.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = transact_log_handler.cpp; path = Realm/ObjectStore/src/impl/transact_log_handler.cpp; sourceTree = "<group>"; };
 		903DD1A0E1EE1EC76F361CD9CE9D2C89 /* DDASLLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDASLLogger.h; path = Classes/DDASLLogger.h; sourceTree = "<group>"; };
-		90C6BF888EF2DB8BD0D4EE2115F99248 /* crypto_auth_hmacsha512256.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_auth_hmacsha512256.h; sourceTree = "<group>"; };
 		923152ED1742467673627FA761F250DE /* Cartography-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Cartography-prefix.pch"; sourceTree = "<group>"; };
-		935F97FF557BB9CE36B5BB3990E479E8 /* crypto_generichash_blake2b.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_generichash_blake2b.h; sourceTree = "<group>"; };
-		939F10BA40424E3A625D9767F857A48C /* crypto_kdf_blake2b.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_kdf_blake2b.h; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		93FCDA44E83836C8632943CA0E32300F /* ObjectiveCSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObjectiveCSupport.swift; path = RealmSwift/ObjectiveCSupport.swift; sourceTree = "<group>"; };
-		947F187FC2C04752495738E636401452 /* crypto_box_curve25519xsalsa20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_box_curve25519xsalsa20poly1305.h; sourceTree = "<group>"; };
-		94973A5524C49D1208A976C8410C9DD1 /* MMWormholeFileTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeFileTransiting.h; sourceTree = "<group>"; };
 		951874BF02222B83970887D961905BE9 /* Cartography.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = Cartography.xcconfig; sourceTree = "<group>"; };
 		9543D6137BE8704DFD611DBC5DD5F375 /* RLMSyncUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncUtil.mm; path = Realm/RLMSyncUtil.mm; sourceTree = "<group>"; };
-		95EE705D526DEAE274097FD747F950FE /* DDXMLNode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXMLNode.h; sourceTree = "<group>"; };
-		960CC763685418ED3996BA856003FCEA /* crypto_sign_edwards25519sha512batch.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_sign_edwards25519sha512batch.h; sourceTree = "<group>"; };
-		96727EB43AE9443BFBD28E3685D64FB7 /* crypto.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto.h; sourceTree = "<group>"; };
 		967A5EB2051702D6A44AF1AF33A65159 /* CocoaLumberjack.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = CocoaLumberjack.xcconfig; sourceTree = "<group>"; };
 		96BA688EC268E1AD6DC37BBB184A7C22 /* RLMSyncPermissionValue.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncPermissionValue.mm; path = Realm/RLMSyncPermissionValue.mm; sourceTree = "<group>"; };
 		96D5BD8EB7AB0BB16B41E7E5A9F6AE7C /* AFError.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = AFError.swift; path = Source/AFError.swift; sourceTree = "<group>"; };
-		975B3D4903DBBC8D1C4AE9E64A7E8384 /* ccm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ccm.h; sourceTree = "<group>"; };
 		9765DBA46E705121AC589C7B7AD962A0 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		980D44C9C45371D0A22ED55F4F721E9E /* crypto_verify_32.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_verify_32.h; sourceTree = "<group>"; };
-		98F1A8E87C22D26417085DBC005873EA /* x509_vfy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509_vfy.h; sourceTree = "<group>"; };
 		99020C57D61EE51D8E65AA492D6D69CD /* Alamofire-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-prefix.pch"; sourceTree = "<group>"; };
-		998B2CC306A38EDF5CF74DF82B19FDD5 /* crypto_kx.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_kx.h; sourceTree = "<group>"; };
-		9A13B0880FD6391DD163C7809AA392AB /* ebcdic.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ebcdic.h; sourceTree = "<group>"; };
-		9A4413EF39C80244824BDE8AC78A8FD0 /* tls1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = tls1.h; sourceTree = "<group>"; };
-		9A52B503A5D3F4EEB3AF3F24C4D0B49D /* cgi.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cgi.h; sourceTree = "<group>"; };
-		9AAADD80751959967EE23E1D2236CC4E /* jbsockets.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = jbsockets.h; sourceTree = "<group>"; };
-		9AB31C73EE6BBCF271B7B1B28276F964 /* uv-unix.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "uv-unix.h"; sourceTree = "<group>"; };
 		9B4B4647886DCF3A1FBFAF2F90BAEAE8 /* RLMSyncPermissionOffer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionOffer.h; path = include/RLMSyncPermissionOffer.h; sourceTree = "<group>"; };
-		9B556B16B0D7FED4492DEF40AB2AC2D4 /* x509_crl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509_crl.h; sourceTree = "<group>"; };
 		9BDC8827EEDBAF7C6F394ACBBF79E80F /* RLMNetworkClient.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMNetworkClient.mm; path = Realm/RLMNetworkClient.mm; sourceTree = "<group>"; };
 		9C0C0E6D24F4DD2DC0CC6FC7EA01B4E3 /* RLMSyncPermissionChange_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionChange_Private.h; path = include/RLMSyncPermissionChange_Private.h; sourceTree = "<group>"; };
-		9C946651E1FD3219897195E7C59310BF /* dtls1.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = dtls1.h; sourceTree = "<group>"; };
-		9C96603A0755A04563149A247C6163CC /* pqueue.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pqueue.h; sourceTree = "<group>"; };
-		9D6C6A0B9798D839A5AAA5FCF64ACC6F /* ssl_ciphersuites.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl_ciphersuites.h; sourceTree = "<group>"; };
 		9DEFC46BCDC39B4A5701F8C5699ADFBC /* RLMObservation.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObservation.mm; path = Realm/RLMObservation.mm; sourceTree = "<group>"; };
-		9E2DF480E8EECF42EA35135C885182BB /* GCDAsyncUdpSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = GCDAsyncUdpSocket.h; sourceTree = "<group>"; };
-		9EAE43B14151544B86A6A71958FABB3B /* md5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md5.h; sourceTree = "<group>"; };
-		9F39D7643D0E9B71E84F9F24424FF66A /* crypto_hash_sha512.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_hash_sha512.h; sourceTree = "<group>"; };
 		A01C6ACFC5DA8E643C4CA079F78BD92F /* RLMRealmConfiguration+Sync.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = "RLMRealmConfiguration+Sync.mm"; path = "Realm/RLMRealmConfiguration+Sync.mm"; sourceTree = "<group>"; };
 		A0315A74F6967BE86C234248829C78D7 /* weak_realm_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = weak_realm_notifier.cpp; path = Realm/ObjectStore/src/impl/weak_realm_notifier.cpp; sourceTree = "<group>"; };
-		A05993EC4B067AB92CCF771140C6E9DB /* PotatsoModel-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PotatsoModel-Swift.h"; sourceTree = "<group>"; };
-		A066A6A3D9A2DA760483FF992E8169F6 /* libmaxminddb.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = libmaxminddb.h; sourceTree = "<group>"; };
 		A12F94F917D7DD4BF3EEFB0F1887E13D /* Util.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Util.swift; path = RealmSwift/Util.swift; sourceTree = "<group>"; };
 		A16A90C998BFC0DC60671069A88FE9A7 /* DDASLLogCapture.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDASLLogCapture.m; path = Classes/DDASLLogCapture.m; sourceTree = "<group>"; };
-		A19C9FA87E410252F47DF3BF450D970E /* NSError+Helper.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSError+Helper.h"; sourceTree = "<group>"; };
-		A1A5B9107AE1D6BBD5ADD86A049E3299 /* loadcfg.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = loadcfg.h; sourceTree = "<group>"; };
 		A2650E40BDA39C80F9B4329FE67266DF /* AsyncSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "AsyncSwift-umbrella.h"; sourceTree = "<group>"; };
 		A2BEF6FD6AA963A888DE870D44094C81 /* Pods-ccuiio_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ccuiio_Tests-resources.sh"; sourceTree = "<group>"; };
 		A2C3AEED070ADCF08DA940E59D2BBF43 /* RLMObjectBase_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMObjectBase_Private.h; path = include/RLMObjectBase_Private.h; sourceTree = "<group>"; };
 		A380AC49E129B0FCE898E78F3597A5BA /* RLMMigration_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMMigration_Private.h; path = include/RLMMigration_Private.h; sourceTree = "<group>"; };
-		A395A1D2ED80DB9A678C3B7798791B32 /* randombytes_salsa20_random.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = randombytes_salsa20_random.h; sourceTree = "<group>"; };
-		A3F13676E942449830B27548829DE958 /* rc2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rc2.h; sourceTree = "<group>"; };
 		A4766E7D09FC85AA955272258852154C /* MultipartFormData.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = MultipartFormData.swift; path = Source/MultipartFormData.swift; sourceTree = "<group>"; };
 		A4D36EDEE110C1EB9471C94433576EAC /* realm_coordinator.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = realm_coordinator.cpp; path = Realm/ObjectStore/src/impl/realm_coordinator.cpp; sourceTree = "<group>"; };
-		A4EF0A828CCAC4441C02BE060CC942DC /* buffer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = buffer.h; sourceTree = "<group>"; };
-		A534517C2725C973696B98C1B52490B1 /* x509_csr.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509_csr.h; sourceTree = "<group>"; };
 		A5C72AFEA21A33D2E51F2065FC3656AF /* CocoaLumberjack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = CocoaLumberjack.h; path = Classes/CocoaLumberjack.h; sourceTree = "<group>"; };
 		A601B200AFEF1E5906ACFBE62CFE642D /* LogglyLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LogglyLogger.m; path = "LogglyLogger-CocoaLumberjack/LogglyLogger.m"; sourceTree = "<group>"; };
 		A66006B4D400D9C09806D2BBB51FCC8E /* ViewProxy.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ViewProxy.swift; path = Cartography/ViewProxy.swift; sourceTree = "<group>"; };
 		A7013910214E2CF1625722E7A74337DE /* RLMSyncPermissionChange.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMSyncPermissionChange.m; path = Realm/RLMSyncPermissionChange.m; sourceTree = "<group>"; };
-		A76E2F8590964F966685811E0BF6DCEB /* aes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = aes.h; sourceTree = "<group>"; };
 		A77B2E2F1900DFDF9CF6BE9EC51696B3 /* sync_permission.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_permission.cpp; path = Realm/ObjectStore/src/sync/sync_permission.cpp; sourceTree = "<group>"; };
-		A841E1EA52D8CAFE96C70A30A4EA551D /* uv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = uv.h; sourceTree = "<group>"; };
 		A9096A0DACB02290089EE22E6C28C0CB /* RealmSwift-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RealmSwift-prefix.pch"; sourceTree = "<group>"; };
 		A93EE4DF120BAE34A2E3CEB915A67268 /* RLMResults_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMResults_Private.h; path = include/RLMResults_Private.h; sourceTree = "<group>"; };
 		AA1F159316117D4A703110CD54D30EC7 /* KeychainAccess.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = KeychainAccess.modulemap; sourceTree = "<group>"; };
-		AA41A1528FDF8439E654FD970038DD20 /* pk_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pk_internal.h; sourceTree = "<group>"; };
-		AA96C3373B5AD4EB04BD93BC08585A2D /* des.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = des.h; sourceTree = "<group>"; };
-		AAC27200A017B8E040071CE6481329E1 /* ssrLocal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssrLocal.h; sourceTree = "<group>"; };
-		AB873F74DF9B6FE6D19FB0AF5C362FA7 /* ctr_drbg.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ctr_drbg.h; sourceTree = "<group>"; };
-		AC0C39EC8B8EC6857DAD5082098AD7BD /* idea.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = idea.h; sourceTree = "<group>"; };
-		AC86EC7FA70B9C476A0CB087BE5E0B93 /* e_os2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = e_os2.h; sourceTree = "<group>"; };
-		ACAD867F08CF292E67EC6A7AB78D43F3 /* platform.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = platform.h; sourceTree = "<group>"; };
 		ACCA47FA01B8E0B5BA54C56A562DEC9E /* Realm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Realm.h; path = include/Realm.h; sourceTree = "<group>"; };
-		ACFA4C15DB2CE291288B4D5C05E224E4 /* crypto_stream_chacha20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_chacha20.h; sourceTree = "<group>"; };
 		AD93D0364ACB3E0723C700222DA5B55C /* RLMArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMArray.mm; path = Realm/RLMArray.mm; sourceTree = "<group>"; };
-		AE1AD405B9376CF775F3F38FCFBE2EB4 /* dso.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = dso.h; sourceTree = "<group>"; };
 		AE251F252E8A486D55F2C8E6279CD053 /* CocoaLumberjack-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "CocoaLumberjack-dummy.m"; sourceTree = "<group>"; };
 		AE5665911BF447F217F3E8C95EF60AA0 /* Cartography.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Cartography.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AF5A5CEF01715913F5795C9693F98D2C /* RLMSyncConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncConfiguration.h; path = include/RLMSyncConfiguration.h; sourceTree = "<group>"; };
-		AF8C4C562DCBE33BD2E8BF4B4E5F5396 /* crypto_stream.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream.h; sourceTree = "<group>"; };
-		AFCCEB776CE64AACB4E0D820FE4DE2AA /* ssl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl.h; sourceTree = "<group>"; };
 		B02599EF24167105555AB227B9256E9A /* Size.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Size.swift; path = Cartography/Size.swift; sourceTree = "<group>"; };
 		B02D241FA9453A95F152F0C1EE2BCA2D /* CocoaLumberjack-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CocoaLumberjack-prefix.pch"; sourceTree = "<group>"; };
-		B09992173E4BDF85F16C86FE0A0F4411 /* ecjpake.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecjpake.h; sourceTree = "<group>"; };
-		B13F1DC77DE33B292ECF6129E2C9B123 /* cast.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cast.h; sourceTree = "<group>"; };
 		B1C7F8A4213117AE969408405A46F446 /* Pods_ccuiio_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ccuiio_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B1DCF63C593A04D0ED400957C9E10161 /* RLMCollection_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMCollection_Private.h; path = include/RLMCollection_Private.h; sourceTree = "<group>"; };
 		B21BFB57FC1FC9AA550E279A5DD3764A /* Cartography-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Cartography-dummy.m"; sourceTree = "<group>"; };
-		B2FC21EE884589199D271036DEC4C195 /* ssl.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl.h; sourceTree = "<group>"; };
 		B306AD58919E93E8BEFFB451CAC94BA0 /* LayoutItem.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutItem.swift; path = Cartography/LayoutItem.swift; sourceTree = "<group>"; };
 		B4C307DF107A9CEE2BDCCD4A03C843D9 /* RLMListBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMListBase.mm; path = Realm/RLMListBase.mm; sourceTree = "<group>"; };
-		B60F2738846A23BB8635A46DAAD8EB05 /* rsa_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = rsa_internal.h; sourceTree = "<group>"; };
 		B644C74B985FD2C81B05D5D8D23EC46C /* DDFileLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDFileLogger.m; path = Classes/DDFileLogger.m; sourceTree = "<group>"; };
 		B6B90702771541BE98B940BE1AF3325A /* RLMArray_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMArray_Private.h; path = include/RLMArray_Private.h; sourceTree = "<group>"; };
-		B73B51C88A3BCA87ADB2784B9BED5633 /* crypto_core_hsalsa20.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_core_hsalsa20.h; sourceTree = "<group>"; };
-		B7B5CB85A1AC95AD1BB040930C3B194A /* ssplit.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssplit.h; sourceTree = "<group>"; };
-		B8399D3E7ADE2FFADDE7C182A770E3D0 /* entropy_poll.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = entropy_poll.h; sourceTree = "<group>"; };
 		B87C43D322AA2B23C459E3B84A196503 /* RLMJSONModels.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMJSONModels.m; path = Realm/RLMJSONModels.m; sourceTree = "<group>"; };
 		B8C52DF59EE88A8F73BC30683D6A3345 /* RLMArray.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMArray.h; path = include/RLMArray.h; sourceTree = "<group>"; };
 		B8E8371F0148E89628FF4574DA4837FC /* RealmSwift.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RealmSwift.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8FDF2CF0E52BCF5FCEDFF0F943C88F8 /* results_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = results_notifier.cpp; path = Realm/ObjectStore/src/impl/results_notifier.cpp; sourceTree = "<group>"; };
 		B952F7FC8216BCEF17D24BB0D34E09E8 /* LogglyLogger-CocoaLumberjack.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "LogglyLogger-CocoaLumberjack.xcconfig"; sourceTree = "<group>"; };
-		BA71D4896ABD5EDEB7E495011FE6C15F /* bn.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = bn.h; sourceTree = "<group>"; };
 		BAE34ECB512FF6C7E2CD17EA3C04433A /* sync_session.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_session.cpp; path = Realm/ObjectStore/src/sync/sync_session.cpp; sourceTree = "<group>"; };
 		BB068B0CB6726180601200C94AB8B63C /* RLMSyncPermissionOffer_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionOffer_Private.h; path = include/RLMSyncPermissionOffer_Private.h; sourceTree = "<group>"; };
 		BB2007516651DEF799BCA7759A40DF4C /* RLMListBase.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMListBase.h; path = include/RLMListBase.h; sourceTree = "<group>"; };
 		BB3130B1EC4CA98AC1D4EF0111036275 /* LinkingObjects.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LinkingObjects.swift; path = RealmSwift/LinkingObjects.swift; sourceTree = "<group>"; };
 		BB55F48A6510973D8206EDC46ADEFC38 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		BBA24780A1794EF4D31E1858F5F90353 /* PotatsoLibrary-Swift.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "PotatsoLibrary-Swift.h"; sourceTree = "<group>"; };
 		BBA67D100723536D06EE7CFDD67930E9 /* CocoaLumberjack.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = CocoaLumberjack.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		BC10BD2AB07C50F03052CEE00E6A3F87 /* project.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = project.h; sourceTree = "<group>"; };
-		BCACA4D04AE5F6511519E8397FEA1A02 /* pkcs7.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pkcs7.h; sourceTree = "<group>"; };
 		BCB62A5DA86D02188BDDAB52F2B6928D /* RLMSchema_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSchema_Private.h; path = include/RLMSchema_Private.h; sourceTree = "<group>"; };
-		BD2D11094D74BCD6ECF3983CFCE1CF56 /* pkcs5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pkcs5.h; sourceTree = "<group>"; };
 		BD2EB8F1E1F260B4D442A29BC43AFB63 /* RLMSyncConfiguration.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncConfiguration.mm; path = Realm/RLMSyncConfiguration.mm; sourceTree = "<group>"; };
 		BD72B6637A2604EA25EF7F6A2D20E623 /* LogglyLogger-CocoaLumberjack.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "LogglyLogger-CocoaLumberjack.modulemap"; sourceTree = "<group>"; };
-		BDCA667F45306F332C63977A66924835 /* pkcs12.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = pkcs12.h; sourceTree = "<group>"; };
-		BE695895A985FAADF94946F5C9C193D4 /* crypto_secretstream_xchacha20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_secretstream_xchacha20poly1305.h; sourceTree = "<group>"; };
 		BF65CF5747A87CBA1EC59E37E63C897A /* collection_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = collection_notifier.cpp; path = Realm/ObjectStore/src/impl/collection_notifier.cpp; sourceTree = "<group>"; };
 		BF8BC07DD8F63B0237AFFBE621A3600D /* RLMSyncSessionRefreshHandle.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncSessionRefreshHandle.mm; path = Realm/RLMSyncSessionRefreshHandle.mm; sourceTree = "<group>"; };
-		BFA92C7BE29F3F5C1AEBCDA0A3DD2C26 /* md2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md2.h; sourceTree = "<group>"; };
 		BFD26DDDFDD8484E538F66EF79B21566 /* KeychainAccess.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = KeychainAccess.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		C0229A53F32E43D77C26A3E1AD698109 /* ssr_cipher_names.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssr_cipher_names.h; sourceTree = "<group>"; };
 		C0B2EC5B90EA03BA82EA4DEFCFBAAB72 /* DDAbstractDatabaseLogger.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = DDAbstractDatabaseLogger.m; path = Classes/DDAbstractDatabaseLogger.m; sourceTree = "<group>"; };
 		C0DACAC11B41E4FAC471B1659D9D710F /* RealmSwift-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "RealmSwift-umbrella.h"; sourceTree = "<group>"; };
 		C10374B302FDF68FE745BF67ACB19691 /* Edge.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Edge.swift; path = Cartography/Edge.swift; sourceTree = "<group>"; };
 		C1171C2E8F35D4123013D1951A4A31FD /* KeychainAccess-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "KeychainAccess-dummy.m"; sourceTree = "<group>"; };
-		C1559B3079B3148C4833F04C8850E289 /* local_api.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = local_api.h; sourceTree = "<group>"; };
 		C16E20FF0DB6043B9678E26DA4BDF0D3 /* RLMSyncPermission_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermission_Private.h; path = include/RLMSyncPermission_Private.h; sourceTree = "<group>"; };
 		C35497536C65156612F6878B28ED1F43 /* object_notifier.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = object_notifier.cpp; path = Realm/ObjectStore/src/impl/object_notifier.cpp; sourceTree = "<group>"; };
 		C63C8CFC0863983A54765EF2DBA7EB3F /* Alamofire-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Alamofire-umbrella.h"; sourceTree = "<group>"; };
-		C6473A638FC56E321230F34A9280C7C4 /* errlog.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = errlog.h; sourceTree = "<group>"; };
-		C7254BA02AC68D10FD7D67A8615989C9 /* crypto_secretbox_xchacha20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_secretbox_xchacha20poly1305.h; sourceTree = "<group>"; };
 		C7C1D31FA00440543458256EA1D205A2 /* network_reachability_observer.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = network_reachability_observer.cpp; path = Realm/ObjectStore/src/sync/impl/apple/network_reachability_observer.cpp; sourceTree = "<group>"; };
 		C80F0B327C29B1319AB9D01D019C9836 /* results.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = results.cpp; path = Realm/ObjectStore/src/results.cpp; sourceTree = "<group>"; };
 		C86A2C6CC3EE9FCBD10AFDF736472892 /* DDLog+LOGV.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "DDLog+LOGV.h"; path = "Classes/DDLog+LOGV.h"; sourceTree = "<group>"; };
-		C9077EBCB64D4D9B54FFFA3907B6BBE0 /* yaml.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = yaml.h; sourceTree = "<group>"; };
 		C93094203A7F29C96FECE07B69F36E77 /* RLMRealm.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealm.mm; path = Realm/RLMRealm.mm; sourceTree = "<group>"; };
 		C940DFA47D138C9D8D276DA8E4C0AEB7 /* RLMManagedArray.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMManagedArray.mm; path = Realm/RLMManagedArray.mm; sourceTree = "<group>"; };
 		C95E3E6660164EBB85FC60CFA33F6AD8 /* Realm.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Realm.modulemap; sourceTree = "<group>"; };
-		C9A8A302AE0C5870768274F1B7567D3E /* AntinatServer.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = AntinatServer.h; sourceTree = "<group>"; };
-		C9C649828959170AC9B4E5032D1BDD49 /* aesni.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = aesni.h; sourceTree = "<group>"; };
-		CA30CF1B61DDFBE8C1C29FF9F7B86710 /* seed.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = seed.h; sourceTree = "<group>"; };
 		CA68E4FB5CE0ACCB0D4059012AFCB1F8 /* DDASLLogCapture.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDASLLogCapture.h; path = Classes/DDASLLogCapture.h; sourceTree = "<group>"; };
-		CAB35059C332A26C73B13CC82B3283B2 /* ShadowPath.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ShadowPath.h; sourceTree = "<group>"; };
-		CABDBB734375AD4C35F67C3012639010 /* compat-1.3.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "compat-1.3.h"; sourceTree = "<group>"; };
 		CC3C84A4363C4D5AF1879BBC3514ABA5 /* Optional.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Optional.swift; path = RealmSwift/Optional.swift; sourceTree = "<group>"; };
 		CD287D009BADD9D2CD06CEC9399F5E65 /* LogglyFormatter.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LogglyFormatter.m; path = "LogglyLogger-CocoaLumberjack/LogglyFormatter.m"; sourceTree = "<group>"; };
 		CDCFEAB41105487B21039F1E0B1F2C8A /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		CE07ED8775ACB363B2904108BE2BF629 /* mbedtls.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = mbedtls.h; sourceTree = "<group>"; };
 		CE713B2F2E06810448729C66426D5421 /* CocoaLumberjack-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "CocoaLumberjack-umbrella.h"; sourceTree = "<group>"; };
-		CEC7D88865A20D69F877926AE832400B /* encode.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = encode.h; sourceTree = "<group>"; };
-		D0373BDC08D8BC87BEA918F121216675 /* check_config.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = check_config.h; sourceTree = "<group>"; };
-		D08C45BEC5AD257182C32ACB5AE31579 /* comp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = comp.h; sourceTree = "<group>"; };
 		D0C1D1DDBC7A3B3316D7797CCF2D1361 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		D0CCC2323FDD7C87FD7B80A6AB7B2155 /* Eureka.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Eureka.h; sourceTree = "<group>"; };
-		D13D4F49F26736F91D9DE97F9D4D78C7 /* ecdh.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecdh.h; sourceTree = "<group>"; };
-		D19BBA276244663D5D648BE503B11507 /* asn1write.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = asn1write.h; sourceTree = "<group>"; };
-		D226D7B90936DBCF1BA78D364223C625 /* JSONUtils.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = JSONUtils.h; sourceTree = "<group>"; };
 		D2626A951F8289CCBFC2DED5D8B5EC49 /* RLMSyncPermissionResults.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionResults.h; path = include/RLMSyncPermissionResults.h; sourceTree = "<group>"; };
-		D2E59BEA609A017B617CB967D1E586DC /* modes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = modes.h; sourceTree = "<group>"; };
-		D3E89882ECC9E475F528930F662929E5 /* miscutil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = miscutil.h; sourceTree = "<group>"; };
-		D3EE3D1B3E1D853D4E4A125FC5601C73 /* camellia.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = camellia.h; sourceTree = "<group>"; };
 		D46B97CBB98A1D04828A512FE61E1F50 /* Edges.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Edges.swift; path = Cartography/Edges.swift; sourceTree = "<group>"; };
-		D4EE0197A9B374D1F27E44F5BBA3B33B /* x509.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = x509.h; sourceTree = "<group>"; };
-		D5423EE2F28BF1B99A5C31ECB4C14C3D /* md5.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = md5.h; sourceTree = "<group>"; };
-		D5BA9C45D1C5CCE8BF02E3DA902A3F9F /* randombytes_nativeclient.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = randombytes_nativeclient.h; sourceTree = "<group>"; };
 		D6A7D8269681157EF3C4CEF8D32A9311 /* Result.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Result.swift; path = Source/Result.swift; sourceTree = "<group>"; };
-		D6C2C3B3B964FC74A6D071D8D5934475 /* gateway.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = gateway.h; sourceTree = "<group>"; };
 		D7388A16FD9A2D5F96BC9694CBE62E06 /* Align.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Align.swift; path = Cartography/Align.swift; sourceTree = "<group>"; };
-		D7760C4FF694C1A59D46AA9ACE431464 /* PacketProcessor.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = PacketProcessor.h; sourceTree = "<group>"; };
 		D79F49B0FF9B2B4F6287C987AE95B169 /* RLMSyncUtil.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncUtil.h; path = include/RLMSyncUtil.h; sourceTree = "<group>"; };
-		D7DA5F7876BB81435725FDC73C513700 /* ripemd.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ripemd.h; sourceTree = "<group>"; };
 		D7E1AF28B967A0B938042A7A2502598B /* keychain_helper.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = keychain_helper.cpp; path = Realm/ObjectStore/src/impl/apple/keychain_helper.cpp; sourceTree = "<group>"; };
 		D7F2AA77AC7E1410233478237F819C35 /* RLMProperty.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMProperty.h; path = include/RLMProperty.h; sourceTree = "<group>"; };
 		D8029E5AAD8578EE23B72F0B65A96CCF /* RLMThreadSafeReference.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMThreadSafeReference.mm; path = Realm/RLMThreadSafeReference.mm; sourceTree = "<group>"; };
-		D91FD0E9421240128433E6581AD61EE7 /* crypto_shorthash.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_shorthash.h; sourceTree = "<group>"; };
 		D9787041FB0B75863F907E5CD4869EDF /* RLMResults.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMResults.h; path = include/RLMResults.h; sourceTree = "<group>"; };
-		D9D653B176B2094345586BF3097E27E7 /* radix.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = radix.h; sourceTree = "<group>"; };
-		DA86D11DE6C0AABAE2DFB2B23FD61F59 /* jcc.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = jcc.h; sourceTree = "<group>"; };
-		DAB5735A91B9F81CD2A3729B512623AB /* KissXML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = KissXML.h; sourceTree = "<group>"; };
 		DB7E1751A881C562BD4028DB5D89A0E0 /* AsyncSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = AsyncSwift.modulemap; sourceTree = "<group>"; };
-		DB932192CFD821C14CACDF8CA0B2DD26 /* error.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = error.h; sourceTree = "<group>"; };
 		DC0387EAA9E4B2F542529728B5111387 /* sync_user.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_user.cpp; path = Realm/ObjectStore/src/sync/sync_user.cpp; sourceTree = "<group>"; };
 		DC14E83FE953972F0A53D19F3EDBFE53 /* Response.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Response.swift; path = Source/Response.swift; sourceTree = "<group>"; };
 		DC16AD9F1C82E8B761C23020C0B319BA /* AsyncSwift.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = AsyncSwift.xcconfig; sourceTree = "<group>"; };
-		DC6366264077D4241721CB5A1D999957 /* crypto_sign.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_sign.h; sourceTree = "<group>"; };
 		DCAF852297901967DB3426CC2A0AA2F2 /* ObjectSchema.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = ObjectSchema.swift; path = RealmSwift/ObjectSchema.swift; sourceTree = "<group>"; };
 		DCB4ABEE6DA28674EF9A26B4B5F6D728 /* TaskDelegate.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TaskDelegate.swift; path = Source/TaskDelegate.swift; sourceTree = "<group>"; };
-		DEC3C15B723BFAE996F4661179377969 /* blowfish.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = blowfish.h; sourceTree = "<group>"; };
 		DEF86F0184E269814848A3F4F324F523 /* RLMSyncPermissionOfferResponse_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncPermissionOfferResponse_Private.h; path = include/RLMSyncPermissionOfferResponse_Private.h; sourceTree = "<group>"; };
 		DF58A761E00A1450BD648BC93863D860 /* Priority.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Priority.swift; path = Cartography/Priority.swift; sourceTree = "<group>"; };
-		E0197931ED6CB16209401BF436DD7088 /* libuv.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = libuv.h; sourceTree = "<group>"; };
-		E0843E18574A3B6508BEBDD1DE5A1C58 /* NSString+DDXML.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+DDXML.h"; sourceTree = "<group>"; };
 		E09678C19E0AC9C030A1C796AC7E698D /* RLMSyncPermissionResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncPermissionResults.mm; path = Realm/RLMSyncPermissionResults.mm; sourceTree = "<group>"; };
 		E09B968F9B2C8B2F68BD1D127276B612 /* RLMRealmConfiguration+Sync.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "RLMRealmConfiguration+Sync.h"; path = "include/RLMRealmConfiguration+Sync.h"; sourceTree = "<group>"; };
 		E0A853EC96F43634BB0D8E4160F144EC /* RLMMigration.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMMigration.mm; path = Realm/RLMMigration.mm; sourceTree = "<group>"; };
-		E197361D405453DB8DBAC6C5559D7417 /* padlock.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = padlock.h; sourceTree = "<group>"; };
-		E2B26F33890B793A9479EF4A5B62506A /* MMWormholeSessionFileTransiting.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = MMWormholeSessionFileTransiting.h; sourceTree = "<group>"; };
 		E3547E51D5B235C9FF24EFBE156F0947 /* RLMConstants.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = RLMConstants.m; path = Realm/RLMConstants.m; sourceTree = "<group>"; };
-		E3663A0B2AD4EB6CC28AC3E967AA0236 /* srtp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = srtp.h; sourceTree = "<group>"; };
 		E37633764D337B94023B6C1BD8227443 /* RLMRealmUtil.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMRealmUtil.mm; path = Realm/RLMRealmUtil.mm; sourceTree = "<group>"; };
 		E44913B08A5C7AE8190D089134017959 /* collection_notifications.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = collection_notifications.cpp; path = Realm/ObjectStore/src/collection_notifications.cpp; sourceTree = "<group>"; };
 		E4B64613477FC2F76717DCE7BB5BC113 /* KeychainAccess-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "KeychainAccess-umbrella.h"; sourceTree = "<group>"; };
-		E4B6CECFAA644530134A0D20E9A1E6F0 /* srp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = srp.h; sourceTree = "<group>"; };
-		E4CBBD023C9AD07EB54296D4C0665F40 /* conf_api.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = conf_api.h; sourceTree = "<group>"; };
-		E5B513F73305921F375F7C3B3161204B /* crypto_aead_aes256gcm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_aead_aes256gcm.h; sourceTree = "<group>"; };
-		E64944EC85B6BC0A8E6AFCA59DAB4981 /* entropy.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = entropy.h; sourceTree = "<group>"; };
-		E83A723BDDBF09A1CB60B06007510291 /* obj_mac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = obj_mac.h; sourceTree = "<group>"; };
 		E83B3B83C159A663628994010EE08622 /* RLMObjectSchema.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMObjectSchema.mm; path = Realm/RLMObjectSchema.mm; sourceTree = "<group>"; };
-		E8EC793695D432CFCF099A10B669BA8D /* loaders.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = loaders.h; sourceTree = "<group>"; };
 		E9C22A0A0F2596BAB7250B8CDFF6E541 /* object_schema.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = object_schema.cpp; path = Realm/ObjectStore/src/object_schema.cpp; sourceTree = "<group>"; };
-		E9DE7A8F8408B2744214A1880477A904 /* cipher.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = cipher.h; sourceTree = "<group>"; };
-		EA3A3AFF392309683291A70639DEA0BB /* crypto_verify_16.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_verify_16.h; sourceTree = "<group>"; };
-		EA50C1807E154DAD0F015276425F69B5 /* crypto_aead_chacha20poly1305.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_aead_chacha20poly1305.h; sourceTree = "<group>"; };
-		EABACC71A8A389DC4DFB2141CFD50521 /* net_sockets.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = net_sockets.h; sourceTree = "<group>"; };
-		EB7E69F9E500402C7CCCD8D43D4CCBE4 /* crypto_hash_sha256.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_hash_sha256.h; sourceTree = "<group>"; };
 		EC437E127FA2D3377C1993B06E11ADFF /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		ECCB42D315DE6F1B2B89F83F24674E21 /* RLMSyncCredentials.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMSyncCredentials.h; path = include/RLMSyncCredentials.h; sourceTree = "<group>"; };
 		ECFA2D834310811E3FBEB98BE888443A /* Cartography.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Cartography.modulemap; sourceTree = "<group>"; };
 		ED7C64DA2FFAD6F848BA27B9659F799D /* ccuiio.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; path = ccuiio.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		EE3207F9E931FF92D4D5BF57BB114B99 /* arc4.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = arc4.h; sourceTree = "<group>"; };
-		EE34D054A9113E58FEE309437D82D4B4 /* crypto_stream_salsa208.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_stream_salsa208.h; sourceTree = "<group>"; };
 		EE5F0A6778E2BBE6E37766334DAA15A7 /* LayoutSupport.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = LayoutSupport.swift; path = Cartography/LayoutSupport.swift; sourceTree = "<group>"; };
-		EE8B1FA94C5BFC3D36EE4F506BA836B7 /* Potatso.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Potatso.h; sourceTree = "<group>"; };
 		EF1020BAA25524C81F8CCF36A3FB4248 /* LayoutProxy+TypeErasure.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = "LayoutProxy+TypeErasure.swift"; path = "Cartography/LayoutProxy+TypeErasure.swift"; sourceTree = "<group>"; };
 		EF866B0C63C6A4D55562935DA2E9A0A9 /* DDAbstractDatabaseLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDAbstractDatabaseLogger.h; path = Classes/DDAbstractDatabaseLogger.h; sourceTree = "<group>"; };
-		EFD196D362E95BB7D8A30BA8AD6FD990 /* ssl2.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ssl2.h; sourceTree = "<group>"; };
 		F00A4EC3B72EF4D1597903E8E1A46CE3 /* Alamofire.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = Alamofire.modulemap; sourceTree = "<group>"; };
-		F03F44141461FFAFFFA8D025476D166B /* uv-version.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "uv-version.h"; sourceTree = "<group>"; };
 		F0974647339FBA967875EED881414D0D /* RLMSyncSession.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMSyncSession.mm; path = Realm/RLMSyncSession.mm; sourceTree = "<group>"; };
 		F1929844F4A17DEDBAD4898502EBBC4A /* RLMRealmConfiguration_Private.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealmConfiguration_Private.h; path = include/RLMRealmConfiguration_Private.h; sourceTree = "<group>"; };
-		F24EA4BA828B282E49DEDAE04A06BF47 /* hmac_drbg.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = hmac_drbg.h; sourceTree = "<group>"; };
-		F325A362AB1FE272619C68281DF3F274 /* conf.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = conf.h; sourceTree = "<group>"; };
 		F34E65658D3D151DCCA54307F1E7D97D /* format.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = format.cpp; path = Realm/ObjectStore/src/util/format.cpp; sourceTree = "<group>"; };
 		F353F7964F75CA723E11F2B0AB087298 /* sync_manager.cpp */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.cpp; name = sync_manager.cpp; path = Realm/ObjectStore/src/sync/sync_manager.cpp; sourceTree = "<group>"; };
-		F41AF0BA4644F77A276F03FC59FC8379 /* hmac.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = hmac.h; sourceTree = "<group>"; };
 		F49157D79EFBD76E877A80C5B4489FE7 /* DDFileLogger.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DDFileLogger.h; path = Classes/DDFileLogger.h; sourceTree = "<group>"; };
-		F505B85E5CA8FBACFAF5A0341188745A /* evp.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = evp.h; sourceTree = "<group>"; };
 		F5775E6E196CCB98929D06E9B92E5A92 /* Error.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Error.swift; path = RealmSwift/Error.swift; sourceTree = "<group>"; };
 		F5A18CE56859D71C0E494CA793662BA3 /* Alamofire.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Alamofire.swift; path = Source/Alamofire.swift; sourceTree = "<group>"; };
 		F688F380BB270FA12688D29C09D406FB /* RLMResults.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMResults.mm; path = Realm/RLMResults.mm; sourceTree = "<group>"; };
-		F6E59CED7AEE48F26FD63C640EB9FB96 /* platform_time.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = platform_time.h; sourceTree = "<group>"; };
-		F70B16BC358B29A024691F5A7B13F766 /* gcm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = gcm.h; sourceTree = "<group>"; };
 		F7236E284C494245A7C9FB4358FC277D /* Realm-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Realm-prefix.pch"; sourceTree = "<group>"; };
-		F72B8A682198714B0AEB8C3A63B483A2 /* CocoaAsyncSocket.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = CocoaAsyncSocket.h; sourceTree = "<group>"; };
-		F73F3A3C9CF23C02B25C3040C390766F /* crypto_scalarmult_ed25519.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = crypto_scalarmult_ed25519.h; sourceTree = "<group>"; };
 		F7A759B1826C21790B800694E43F24D4 /* RLMOptionalBase.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMOptionalBase.mm; path = Realm/RLMOptionalBase.mm; sourceTree = "<group>"; };
 		F898AD54EAB7EAAEBD89C3DDF5C9D9DF /* Realm.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Realm.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F96A292946A6056BDEAE56B5A5FCA55C /* RealmSwift.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = RealmSwift.modulemap; sourceTree = "<group>"; };
 		F9FB76F72F6620911E463068A9D83869 /* RLMClassInfo.mm */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.cpp.objcpp; name = RLMClassInfo.mm; path = Realm/RLMClassInfo.mm; sourceTree = "<group>"; };
-		FA65548C46A7D0CDD4094B9AD2FCBF9D /* ecdsa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecdsa.h; sourceTree = "<group>"; };
-		FAE16139F147280A7289A1126A0931F0 /* safestack.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = safestack.h; sourceTree = "<group>"; };
-		FBA47A4FF9930AD2ACD84E7F9119B47C /* randombytes.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = randombytes.h; sourceTree = "<group>"; };
-		FBD7D574F7837C76F8992EAC17BC3890 /* dhm.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = dhm.h; sourceTree = "<group>"; };
-		FC1E073370DECEB316C1D654470B5A03 /* ecp_internal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = ecp_internal.h; sourceTree = "<group>"; };
-		FCBC976887A2686BFD277D2C9073A976 /* DDXMLDocument.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = DDXMLDocument.h; sourceTree = "<group>"; };
-		FCC8326A4C7031F8491D674D7B4B3921 /* Settings.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = Settings.h; sourceTree = "<group>"; };
 		FCD7E8BC85CD0AFCA2900E6BA839A540 /* Pods-ccuiio_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ccuiio_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		FCEDD98A447E284F7A68263A75AB6E5C /* Pods-ccuiio_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-ccuiio_Tests.modulemap"; sourceTree = "<group>"; };
-		FD5E4D77DC2EF4DF1F2B4CA1657E91A8 /* txt_db.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = txt_db.h; sourceTree = "<group>"; };
 		FE597833EE5BB0C64DCB1DCAE8A274DA /* Pods-ccuiio_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ccuiio_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		FEDC3D9FFD94F7750DD6450BDCAA5604 /* LogglyFields.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = LogglyFields.m; path = "LogglyLogger-CocoaLumberjack/LogglyFields.m"; sourceTree = "<group>"; };
 		FF2BF7F931622B796DB8B68B6E0C2E93 /* Point.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = Point.swift; path = Cartography/Point.swift; sourceTree = "<group>"; };
-		FFA702C4A642E037F510D9153F79FF5D /* dsa.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = dsa.h; sourceTree = "<group>"; };
 		FFD8A5D58EFF226234D489F0607A8F8F /* RLMRealmConfiguration.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = RLMRealmConfiguration.h; path = include/RLMRealmConfiguration.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -1216,111 +927,6 @@
 			name = Headers;
 			sourceTree = "<group>";
 		};
-		1606D5ABB74EE4994DE20BAFFEBF7725 /* KissXML.framework */ = {
-			isa = PBXGroup;
-			children = (
-				C10B0DD42C95636C21C886FC1B33952B /* Headers */,
-				37B40FFE95FD344CF78AAF693A4AABEB /* PrivateHeaders */,
-			);
-			path = KissXML.framework;
-			sourceTree = "<group>";
-		};
-		1B1004CE9DDA383EE7189EF16EB200D4 /* ssrLocal.framework */ = {
-			isa = PBXGroup;
-			children = (
-				6F5E8F38BF55CB665F249EA5ED723E5B /* Headers */,
-			);
-			path = ssrLocal.framework;
-			sourceTree = "<group>";
-		};
-		1C55E1B1E4B47F9EAB824A3B92A080C7 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				81CF1F20B5E192C8BAC417989E8E8DA9 /* aes.h */,
-				C9C649828959170AC9B4E5032D1BDD49 /* aesni.h */,
-				EE3207F9E931FF92D4D5BF57BB114B99 /* arc4.h */,
-				38F8B232B31003B8FF513AB219ED882F /* asn1.h */,
-				D19BBA276244663D5D648BE503B11507 /* asn1write.h */,
-				1B7895F0D94E785E2DBBB03EEC086EC0 /* base64.h */,
-				6798141CA8B19A7F561C59BAA347C37E /* bignum.h */,
-				DEC3C15B723BFAE996F4661179377969 /* blowfish.h */,
-				8E0699A210DC53D6C2910F845FEE7C15 /* bn_mul.h */,
-				D3EE3D1B3E1D853D4E4A125FC5601C73 /* camellia.h */,
-				975B3D4903DBBC8D1C4AE9E64A7E8384 /* ccm.h */,
-				20B67019A2D1C5AEAE8B0636D096F016 /* certs.h */,
-				D0373BDC08D8BC87BEA918F121216675 /* check_config.h */,
-				E9DE7A8F8408B2744214A1880477A904 /* cipher.h */,
-				1C6F0F0D49C05960F3AC9E4033906202 /* cipher_internal.h */,
-				496AF6901D73F32EAC24483D278ABB47 /* cmac.h */,
-				CABDBB734375AD4C35F67C3012639010 /* compat-1.3.h */,
-				60E711F1DD9FFCA2FCDB94ECC141F69D /* config.h */,
-				AB873F74DF9B6FE6D19FB0AF5C362FA7 /* ctr_drbg.h */,
-				5B2F6DB2274E19F45B3CF5063582F5B6 /* debug.h */,
-				AA96C3373B5AD4EB04BD93BC08585A2D /* des.h */,
-				FBD7D574F7837C76F8992EAC17BC3890 /* dhm.h */,
-				3E2E641091D9928DA5288AF616FE030B /* ecdh.h */,
-				FA65548C46A7D0CDD4094B9AD2FCBF9D /* ecdsa.h */,
-				B09992173E4BDF85F16C86FE0A0F4411 /* ecjpake.h */,
-				2FC3D37D8AC59FF80901A0E203D52BEE /* ecp.h */,
-				FC1E073370DECEB316C1D654470B5A03 /* ecp_internal.h */,
-				E64944EC85B6BC0A8E6AFCA59DAB4981 /* entropy.h */,
-				B8399D3E7ADE2FFADDE7C182A770E3D0 /* entropy_poll.h */,
-				DB932192CFD821C14CACDF8CA0B2DD26 /* error.h */,
-				F70B16BC358B29A024691F5A7B13F766 /* gcm.h */,
-				64D40E7990964ED448E745D11934AFEA /* havege.h */,
-				F24EA4BA828B282E49DEDAE04A06BF47 /* hmac_drbg.h */,
-				CE07ED8775ACB363B2904108BE2BF629 /* mbedtls.h */,
-				1FF57B0800D968E714DE5F2D6F0CC89B /* md.h */,
-				BFA92C7BE29F3F5C1AEBCDA0A3DD2C26 /* md2.h */,
-				19264ECFEED8E54A348040BE64587841 /* md4.h */,
-				9EAE43B14151544B86A6A71958FABB3B /* md5.h */,
-				73B28B58B9C6B04EEBCE5F1C0A3C0ACB /* md_internal.h */,
-				64790ACFA83E4F5293F787EC1FA5970B /* memory_buffer_alloc.h */,
-				3054B28D09A68D86D2142A467E5FFEA1 /* net.h */,
-				EABACC71A8A389DC4DFB2141CFD50521 /* net_sockets.h */,
-				14D620266646163DFA7D42990A9756D5 /* oid.h */,
-				E197361D405453DB8DBAC6C5559D7417 /* padlock.h */,
-				0E45FC4091CB71AFFEB2AABB597A3C7F /* pem.h */,
-				26AED2E6F7C936B7F6133984242C7FE5 /* pk.h */,
-				AA41A1528FDF8439E654FD970038DD20 /* pk_internal.h */,
-				3F8FDFA0C91047FC40D93E6C85EE5D2B /* pkcs11.h */,
-				BDCA667F45306F332C63977A66924835 /* pkcs12.h */,
-				BD2D11094D74BCD6ECF3983CFCE1CF56 /* pkcs5.h */,
-				ACAD867F08CF292E67EC6A7AB78D43F3 /* platform.h */,
-				F6E59CED7AEE48F26FD63C640EB9FB96 /* platform_time.h */,
-				2037B01797201DDBECCFFA8D7E1BFF1B /* ripemd160.h */,
-				14111EA3B8D1E5E5102D143617199F08 /* rsa.h */,
-				B60F2738846A23BB8635A46DAAD8EB05 /* rsa_internal.h */,
-				3E7F8E2834953ACB35344953A867E1CC /* sha1.h */,
-				1854AF7555D14AEA0CF21BE0ABF27851 /* sha256.h */,
-				217083F2CE005C8B3DBAC56A6626733D /* sha512.h */,
-				AFCCEB776CE64AACB4E0D820FE4DE2AA /* ssl.h */,
-				0830EAFBE299C053B6CFA70E72D23535 /* ssl_cache.h */,
-				9D6C6A0B9798D839A5AAA5FCF64ACC6F /* ssl_ciphersuites.h */,
-				611473B7F992266173D76DE966624A1A /* ssl_cookie.h */,
-				4BF1901C93D1B128B44306597ABB59C0 /* ssl_internal.h */,
-				6CC222955032B38B7AEBAB9F4143B057 /* ssl_ticket.h */,
-				552F284D8D67673AB97980C44720D5FB /* threading.h */,
-				267DA4490DD7D16FAE2DE73B3D166642 /* timing.h */,
-				031DB97B794A8B649664E4614947171F /* version.h */,
-				D4EE0197A9B374D1F27E44F5BBA3B33B /* x509.h */,
-				9B556B16B0D7FED4492DEF40AB2AC2D4 /* x509_crl.h */,
-				039356B3B053EEE0A01003A0F9EDA272 /* x509_crt.h */,
-				A534517C2725C973696B98C1B52490B1 /* x509_csr.h */,
-				572C8CD98FA4A6663E0B906C70E04BFE /* xtea.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		1DA9FEDE48340C9F19F93DCE8A3CBA39 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				1BC9EE03815CC74DB7C60AC20EC0A1DA /* PotatsoModel.h */,
-				A05993EC4B067AB92CCF771140C6E9DB /* PotatsoModel-Swift.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		1EFF8A25234A2411FFB13EBDD9DCF716 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -1335,22 +941,6 @@
 			path = "../Target Support Files/Cartography";
 			sourceTree = "<group>";
 		};
-		20C6B569245660D03319A096A65F15A2 /* PotatsoBase.framework */ = {
-			isa = PBXGroup;
-			children = (
-				EDED0722B7DB3AF71191526BFDC51E31 /* Headers */,
-			);
-			path = PotatsoBase.framework;
-			sourceTree = "<group>";
-		};
-		2E240444F2070AAE0589C04C779EFFE9 /* MMWormhole.framework */ = {
-			isa = PBXGroup;
-			children = (
-				B0CB1C07F657C744D54BF33145D5ED20 /* Headers */,
-			);
-			path = MMWormhole.framework;
-			sourceTree = "<group>";
-		};
 		36E530F08AF6F49B0D85A66AA4FE4FA7 /* Targets Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -1359,39 +949,12 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		37B40FFE95FD344CF78AAF693A4AABEB /* PrivateHeaders */ = {
-			isa = PBXGroup;
-			children = (
-				3DD86EA3E4479DEC572FC9C587ECA620 /* DDXMLPrivate.h */,
-			);
-			path = PrivateHeaders;
-			sourceTree = "<group>";
-		};
 		39F0B401874500E9069DF228B6FD6CED /* Development Pods */ = {
 			isa = PBXGroup;
 			children = (
 				53EE011F604A0185647C4F67B0AB51CA /* ccuiio */,
 			);
 			name = "Development Pods";
-			sourceTree = "<group>";
-		};
-		3A4F1ED9D53019A6D0768A8C91105489 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				F72B8A682198714B0AEB8C3A63B483A2 /* CocoaAsyncSocket.h */,
-				4AD89507FDD0C0142875E3C76E580242 /* GCDAsyncSocket.h */,
-				9E2DF480E8EECF42EA35135C885182BB /* GCDAsyncUdpSocket.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		3C27D7A3862D80CB29FF7BBFAD2C5895 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				D7760C4FF694C1A59D46AA9ACE431464 /* PacketProcessor.h */,
-				8896DCEBB43619E07720D39F38DA6FEB /* TunnelInterface.h */,
-			);
-			path = Headers;
 			sourceTree = "<group>";
 		};
 		3F89895A5992566EDF8F037C641AF7B2 /* Support Files */ = {
@@ -1436,59 +999,14 @@
 			path = RealmSwift;
 			sourceTree = "<group>";
 		};
-		4F1E16FB73B7559AA470D47B9A90F00A /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				89AF487177066C35D7EE024062F5A348 /* actionlist.h */,
-				42F0832365EAFAA8766A916F5578AFFD /* actions.h */,
-				C9A8A302AE0C5870768274F1B7567D3E /* AntinatServer.h */,
-				9A52B503A5D3F4EEB3AF3F24C4D0B49D /* cgi.h */,
-				557101A34BDC392CB9B24AF984B2209B /* cgiedit.h */,
-				0B172CC124EEAC621C75FB7881BB8AE7 /* cgisimple.h */,
-				8264913AAA3D1A71FF14164B2E68B3D5 /* deanimate.h */,
-				CEC7D88865A20D69F877926AE832400B /* encode.h */,
-				C6473A638FC56E321230F34A9280C7C4 /* errlog.h */,
-				4FAF343EAADA03B8A406C4CB63ED2B08 /* filters.h */,
-				D6C2C3B3B964FC74A6D071D8D5934475 /* gateway.h */,
-				4D9B078BDDE480A960CEB4F3944E4D68 /* internal.h */,
-				9AAADD80751959967EE23E1D2236CC4E /* jbsockets.h */,
-				DA86D11DE6C0AABAE2DFB2B23FD61F59 /* jcc.h */,
-				8EE0773A910760D3E701D7DA10D20401 /* list.h */,
-				A1A5B9107AE1D6BBD5ADD86A049E3299 /* loadcfg.h */,
-				E8EC793695D432CFCF099A10B669BA8D /* loaders.h */,
-				D3E89882ECC9E475F528930F662929E5 /* miscutil.h */,
-				8D1548037CEE169A9A320514B8C71914 /* parsers.h */,
-				4523812CF92868865D2F37C8C70ED48F /* pcre.h */,
-				7BB7370AD5039056C1B9931818CCB3ED /* pcreposix.h */,
-				2B7772DE245E19B272CB703A804830FA /* pcrs.h */,
-				BC10BD2AB07C50F03052CEE00E6A3F87 /* project.h */,
-				D9D653B176B2094345586BF3097E27E7 /* radix.h */,
-				CAB35059C332A26C73B13CC82B3283B2 /* ShadowPath.h */,
-				4A9A39301FD9E6A0E0A68D94C215241B /* sp_config.h */,
-				B7B5CB85A1AC95AD1BB040930C3B194A /* ssplit.h */,
-				72206287D48E2966F8F9DBA74CA5DCC2 /* urlmatch.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		53EE011F604A0185647C4F67B0AB51CA /* ccuiio */ = {
 			isa = PBXGroup;
 			children = (
 				A255D9F089567E76215A9372579E8EBC /* CcuiioThirdPartSocialVendor */,
-				F4996CE14A020F975814872162D41B31 /* Frameworks */,
-				979745EDE1EFADEBCE3FC0943F032CB1 /* openssl */,
 				BA654A0FF8BB679DBC578981DE4AEDB4 /* Pod */,
 			);
 			name = ccuiio;
 			path = ../..;
-			sourceTree = "<group>";
-		};
-		55C288EB3DAA595E9D07F79EB0398222 /* PotatsoModel.framework */ = {
-			isa = PBXGroup;
-			children = (
-				1DA9FEDE48340C9F19F93DCE8A3CBA39 /* Headers */,
-			);
-			path = PotatsoModel.framework;
 			sourceTree = "<group>";
 		};
 		5D51317D01520C0A335FC906A723518F /* Support Files */ = {
@@ -1515,43 +1033,6 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		68A4ABD2D4FED99B323A2E968152016B /* libmaxminddb.framework */ = {
-			isa = PBXGroup;
-			children = (
-				CC73AE048D6441AE7303586773B3B4F9 /* Headers */,
-			);
-			path = libmaxminddb.framework;
-			sourceTree = "<group>";
-		};
-		6CAA8E35F3BCF03AAB569DA0A017FFAE /* libuv.framework */ = {
-			isa = PBXGroup;
-			children = (
-				E272E3848AC2448FDBC8560270A9135E /* Headers */,
-			);
-			path = libuv.framework;
-			sourceTree = "<group>";
-		};
-		6F5E8F38BF55CB665F249EA5ED723E5B /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				C1559B3079B3148C4833F04C8850E289 /* local_api.h */,
-				5D68BD1E7D58EB2EFA0ACA345C0C3788 /* sockaddr_universal.h */,
-				C0229A53F32E43D77C26A3E1AD698109 /* ssr_cipher_names.h */,
-				7728860B54B1759B3B74B94A83EF65F7 /* ssr_executive.h */,
-				451914004E3B25587E99890400923E1F /* ssr_qr_code.h */,
-				AAC27200A017B8E040071CE6481329E1 /* ssrLocal.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		75C05BDBC074196B6D63C8E2D01D9199 /* PacketProcessor.framework */ = {
-			isa = PBXGroup;
-			children = (
-				3C27D7A3862D80CB29FF7BBFAD2C5895 /* Headers */,
-			);
-			path = PacketProcessor.framework;
-			sourceTree = "<group>";
-		};
 		78603CCCA868EFF711497287739124E6 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -1563,14 +1044,6 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/Realm";
-			sourceTree = "<group>";
-		};
-		79BF0119984EA1C72CBAB8E2B69B5D14 /* ShadowPath.framework */ = {
-			isa = PBXGroup;
-			children = (
-				4F1E16FB73B7559AA470D47B9A90F00A /* Headers */,
-			);
-			path = ShadowPath.framework;
 			sourceTree = "<group>";
 		};
 		7BE5CBCBD3C50622425867AC220BFBF4 /* Support Files */ = {
@@ -1613,85 +1086,6 @@
 			path = "../Target Support Files/AsyncSwift";
 			sourceTree = "<group>";
 		};
-		8606305441399BDA7D315E79E2791EE4 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				5588690AAD99D1AE41C1B700C125CBBF /* core.h */,
-				E5B513F73305921F375F7C3B3161204B /* crypto_aead_aes256gcm.h */,
-				EA50C1807E154DAD0F015276425F69B5 /* crypto_aead_chacha20poly1305.h */,
-				5BA099C24192E9D55769E00B1B348A23 /* crypto_aead_xchacha20poly1305.h */,
-				1C07811D8545C44B353A92D3BD8B7C74 /* crypto_auth.h */,
-				03725B379E66CEB99D255B6C666F5FAF /* crypto_auth_hmacsha256.h */,
-				7C8D63F3AB018444DF19CB56DCAEFF5E /* crypto_auth_hmacsha512.h */,
-				90C6BF888EF2DB8BD0D4EE2115F99248 /* crypto_auth_hmacsha512256.h */,
-				5697E2C2EB9C1603E1AC35A983EAAAE7 /* crypto_box.h */,
-				8B88817EBA8924052A26127B738EA013 /* crypto_box_curve25519xchacha20poly1305.h */,
-				947F187FC2C04752495738E636401452 /* crypto_box_curve25519xsalsa20poly1305.h */,
-				3BABE3CCA55E06BF22D20F3B58838898 /* crypto_core_ed25519.h */,
-				8E7AAAD0EB402005A305CD55500DDAA2 /* crypto_core_hchacha20.h */,
-				B73B51C88A3BCA87ADB2784B9BED5633 /* crypto_core_hsalsa20.h */,
-				7166EB6C3B8A1851E87D5DB8230961C7 /* crypto_core_salsa20.h */,
-				3C56BD76E3F5F8F67379FC6B025F4D07 /* crypto_core_salsa2012.h */,
-				7C197D1120D1CE6B37BEC4D98E5ED591 /* crypto_core_salsa208.h */,
-				26C04108FEFE8339E5A5096F93F6B43C /* crypto_generichash.h */,
-				935F97FF557BB9CE36B5BB3990E479E8 /* crypto_generichash_blake2b.h */,
-				56987CFB4D2A49DE855B88BFB3248F68 /* crypto_hash.h */,
-				EB7E69F9E500402C7CCCD8D43D4CCBE4 /* crypto_hash_sha256.h */,
-				9F39D7643D0E9B71E84F9F24424FF66A /* crypto_hash_sha512.h */,
-				789BB6F34B847982EBF8B98CD547335F /* crypto_kdf.h */,
-				939F10BA40424E3A625D9767F857A48C /* crypto_kdf_blake2b.h */,
-				998B2CC306A38EDF5CF74DF82B19FDD5 /* crypto_kx.h */,
-				8B35C5527453705E1A432AD6BCE12F87 /* crypto_onetimeauth.h */,
-				2AB05735A146ED409E9A79D5B14CA4B3 /* crypto_onetimeauth_poly1305.h */,
-				8529D36E3AAC05B56B48794D7AE7FACF /* crypto_pwhash.h */,
-				512D22C860B9944F46720E941D2E5C87 /* crypto_pwhash_argon2i.h */,
-				509C4E230F8A964E0AA9EA596A2D3F56 /* crypto_pwhash_argon2id.h */,
-				8B786EF25A5AAA7CC2620FCBF43AE127 /* crypto_pwhash_scryptsalsa208sha256.h */,
-				44C7317FF7BD0F7D54B3B27A451AA033 /* crypto_scalarmult.h */,
-				0F32784A4BCBFE35B489D9CE0FB2AC3B /* crypto_scalarmult_curve25519.h */,
-				F73F3A3C9CF23C02B25C3040C390766F /* crypto_scalarmult_ed25519.h */,
-				5BB1BCFDA88DA167ED8D1066B7FAEEFC /* crypto_secretbox.h */,
-				C7254BA02AC68D10FD7D67A8615989C9 /* crypto_secretbox_xchacha20poly1305.h */,
-				876F4FF74315F3E51C30B1B5E2B490E3 /* crypto_secretbox_xsalsa20poly1305.h */,
-				BE695895A985FAADF94946F5C9C193D4 /* crypto_secretstream_xchacha20poly1305.h */,
-				D91FD0E9421240128433E6581AD61EE7 /* crypto_shorthash.h */,
-				5A0BB19ABB7E96EBCA8966FE5E2C7DAD /* crypto_shorthash_siphash24.h */,
-				DC6366264077D4241721CB5A1D999957 /* crypto_sign.h */,
-				39C12E65547AADF19BE019ACCD627952 /* crypto_sign_ed25519.h */,
-				960CC763685418ED3996BA856003FCEA /* crypto_sign_edwards25519sha512batch.h */,
-				AF8C4C562DCBE33BD2E8BF4B4E5F5396 /* crypto_stream.h */,
-				ACFA4C15DB2CE291288B4D5C05E224E4 /* crypto_stream_chacha20.h */,
-				0E088563DEED69E0EAE5C8DB1F584883 /* crypto_stream_salsa20.h */,
-				2BB2E30D073D3A000C3520D1131DC089 /* crypto_stream_salsa2012.h */,
-				EE34D054A9113E58FEE309437D82D4B4 /* crypto_stream_salsa208.h */,
-				36EB093223A32F0620838ECA66FB54F7 /* crypto_stream_xchacha20.h */,
-				038226C956BF3E042E1F527C0D9E2D4F /* crypto_stream_xsalsa20.h */,
-				EA3A3AFF392309683291A70639DEA0BB /* crypto_verify_16.h */,
-				980D44C9C45371D0A22ED55F4F721E9E /* crypto_verify_32.h */,
-				0F95BD810E2D46DE765C7A3E378E99E1 /* crypto_verify_64.h */,
-				4C0110E3DB1FFAEADF57848E857B4154 /* export.h */,
-				1618C207002B86B29F1CDC3630ED49A5 /* libsodium.h */,
-				FBA47A4FF9930AD2ACD84E7F9119B47C /* randombytes.h */,
-				D5BA9C45D1C5CCE8BF02E3DA902A3F9F /* randombytes_nativeclient.h */,
-				A395A1D2ED80DB9A678C3B7798791B32 /* randombytes_salsa20_random.h */,
-				4B1EEF75BE9F7EE0D819D50995E67E33 /* randombytes_sysrandom.h */,
-				7151665E5C443EFE59E27070EFF1A279 /* runtime.h */,
-				4DE5F9FA457144CD5F9038A7F4FA3D87 /* sodium.h */,
-				2F1BA4EE626433D9FE0F511E9967DFDD /* utils.h */,
-				708283D377970C4C67A98442D4D1C38D /* version.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		919E8838FBD9231B1BA119ED6C465CF4 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				C9077EBCB64D4D9B54FFFA3907B6BBE0 /* yaml.h */,
-				7CDEC29105A2D0B771F2393356BA7342 /* YAMLSerialization.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		96498531EB7F47C841C993E840536CD2 /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
@@ -1703,97 +1097,6 @@
 				64912593ECBC96AA90F7241E338EA0B8 /* DDMultiFormatter.m */,
 			);
 			name = Extensions;
-			sourceTree = "<group>";
-		};
-		976D601F4B4903376874EC0E5D1ADBAE /* PotatsoLibrary.framework */ = {
-			isa = PBXGroup;
-			children = (
-				A76706D19A754BAB7D5AD3856377825D /* Headers */,
-			);
-			path = PotatsoLibrary.framework;
-			sourceTree = "<group>";
-		};
-		979745EDE1EFADEBCE3FC0943F032CB1 /* openssl */ = {
-			isa = PBXGroup;
-			children = (
-				A76E2F8590964F966685811E0BF6DCEB /* aes.h */,
-				71B4CFC29F9B35E71D047AA021BC00EC /* asn1.h */,
-				09313A592AA2E9015B5922CD31EA36E4 /* asn1_mac.h */,
-				8CCF212D22B13CF6E2EE688416C6FD94 /* asn1t.h */,
-				0F86E338EB3B4864BD32D3A16D235312 /* bio.h */,
-				85590D61D76AE39FBCA67C9422CFAAD2 /* blowfish.h */,
-				BA71D4896ABD5EDEB7E495011FE6C15F /* bn.h */,
-				A4EF0A828CCAC4441C02BE060CC942DC /* buffer.h */,
-				741EC7DD2B1A6CF581E977FA350E633D /* camellia.h */,
-				B13F1DC77DE33B292ECF6129E2C9B123 /* cast.h */,
-				26BA1BEC158CAF567819E8B87C11A0AE /* cmac.h */,
-				5D4EAEB0F11CB5152BA7E8BD6F9ECE9A /* cms.h */,
-				D08C45BEC5AD257182C32ACB5AE31579 /* comp.h */,
-				F325A362AB1FE272619C68281DF3F274 /* conf.h */,
-				E4CBBD023C9AD07EB54296D4C0665F40 /* conf_api.h */,
-				96727EB43AE9443BFBD28E3685D64FB7 /* crypto.h */,
-				5EEFABD6047CFB9D9615AF03E1E0CC5E /* des.h */,
-				8B63754D403DA4C9D5A1999957DDA27D /* des_old.h */,
-				5E2918957941263D22C16D8E23787548 /* dh.h */,
-				FFA702C4A642E037F510D9153F79FF5D /* dsa.h */,
-				AE1AD405B9376CF775F3F38FCFBE2EB4 /* dso.h */,
-				9C946651E1FD3219897195E7C59310BF /* dtls1.h */,
-				AC86EC7FA70B9C476A0CB087BE5E0B93 /* e_os2.h */,
-				9A13B0880FD6391DD163C7809AA392AB /* ebcdic.h */,
-				43C7DFFDFDBA4BE848961337C29FFF9C /* ec.h */,
-				D13D4F49F26736F91D9DE97F9D4D78C7 /* ecdh.h */,
-				2AFC46300C75A5F78B50444B76D40CDC /* ecdsa.h */,
-				147B49062DCE506ACA875F3EA3FCE111 /* engine.h */,
-				8FDEA22C45F4F87CBB07622EEB2A622E /* err.h */,
-				F505B85E5CA8FBACFAF5A0341188745A /* evp.h */,
-				F41AF0BA4644F77A276F03FC59FC8379 /* hmac.h */,
-				AC0C39EC8B8EC6857DAD5082098AD7BD /* idea.h */,
-				66A93D6073476AE2501DDDAE419DAEE4 /* krb5_asn.h */,
-				3236B70EA8DCF94AABE554DC8C63D708 /* kssl.h */,
-				8CEC409D729E7836AC74F39CAA0EEDD1 /* lhash.h */,
-				21A810FEA4F09160B29DE5FE3C6254CB /* md4.h */,
-				D5423EE2F28BF1B99A5C31ECB4C14C3D /* md5.h */,
-				092A765F9284BF1A465F626CC4C79AB8 /* mdc2.h */,
-				D2E59BEA609A017B617CB967D1E586DC /* modes.h */,
-				E83A723BDDBF09A1CB60B06007510291 /* obj_mac.h */,
-				451E6927DC071201CCD6008B16CF4CAF /* objects.h */,
-				2B0C4487073EC5CB31FF76A565D02739 /* ocsp.h */,
-				40E21C7CE7341FFEC235CFD9500D906A /* opensslconf.h */,
-				609AE3E63C61F5CD089BDD6D8757EC99 /* opensslv.h */,
-				671F6057EEDDC63A9F07EA0F9B2CF16D /* ossl_typ.h */,
-				8054B3A641D8E75FAA3DA91D4ADEAC5B /* pem.h */,
-				1460EBB82609449516325A2C450D70EE /* pem2.h */,
-				2001EA3091C6B4D653D4DCF75663476D /* pkcs12.h */,
-				BCACA4D04AE5F6511519E8397FEA1A02 /* pkcs7.h */,
-				9C96603A0755A04563149A247C6163CC /* pqueue.h */,
-				10D85BC5A95A38AADC0DAE153AF0DBC6 /* rand.h */,
-				A3F13676E942449830B27548829DE958 /* rc2.h */,
-				3EF4D9D944D3DE8BF624B2AEFABE5719 /* rc4.h */,
-				D7DA5F7876BB81435725FDC73C513700 /* ripemd.h */,
-				6C388FC11C9C9538CABF5F5054177D87 /* rsa.h */,
-				FAE16139F147280A7289A1126A0931F0 /* safestack.h */,
-				CA30CF1B61DDFBE8C1C29FF9F7B86710 /* seed.h */,
-				824803C91027A5B337CD7155A5B07052 /* sha.h */,
-				E4B6CECFAA644530134A0D20E9A1E6F0 /* srp.h */,
-				E3663A0B2AD4EB6CC28AC3E967AA0236 /* srtp.h */,
-				B2FC21EE884589199D271036DEC4C195 /* ssl.h */,
-				EFD196D362E95BB7D8A30BA8AD6FD990 /* ssl2.h */,
-				2F91A1238115E9FEFA9760D60D4F571F /* ssl23.h */,
-				20812D2878138EC04475873BCE93EEAF /* ssl3.h */,
-				34281118D9BB8E06D1AD2142B21B43D6 /* stack.h */,
-				2F0160CEA8DF7E9AE3EBB2B00DF4E5A3 /* symhacks.h */,
-				9A4413EF39C80244824BDE8AC78A8FD0 /* tls1.h */,
-				80EC02BC0599A999A8DC5E78E7963A56 /* ts.h */,
-				FD5E4D77DC2EF4DF1F2B4CA1657E91A8 /* txt_db.h */,
-				297C795A679ABE9408EE1C82BAAC9E81 /* ui.h */,
-				601FE4CA6288DDD35B895261F9B897BF /* ui_compat.h */,
-				413F6C95EF3F3A8789D73ACA9DCA0EC9 /* whrlpool.h */,
-				4A51F66A6B436B6EE08A21975627AB13 /* x509.h */,
-				98F1A8E87C22D26417085DBC005873EA /* x509_vfy.h */,
-				3D3D5C55ED7CE28F14EF1ED9B7642AB3 /* x509v3.h */,
-			);
-			name = openssl;
-			path = ccuiio/Classes/openssl;
 			sourceTree = "<group>";
 		};
 		A255D9F089567E76215A9372579E8EBC /* CcuiioThirdPartSocialVendor */ = {
@@ -1825,15 +1128,6 @@
 			path = "../Target Support Files/LogglyLogger-CocoaLumberjack";
 			sourceTree = "<group>";
 		};
-		A76706D19A754BAB7D5AD3856377825D /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				310E63C15DA4D9D07C96732BC4B79107 /* PotatsoLibrary.h */,
-				BBA24780A1794EF4D31E1858F5F90353 /* PotatsoLibrary-Swift.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		AA7443289EAA43985860442CB866C1C7 /* AsyncSwift */ = {
 			isa = PBXGroup;
 			children = (
@@ -1841,30 +1135,6 @@
 				7DE8A4ADA3986078062CDEA1AA61B4EB /* Support Files */,
 			);
 			path = AsyncSwift;
-			sourceTree = "<group>";
-		};
-		B0CB1C07F657C744D54BF33145D5ED20 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				7792EA6A6B203E7E57CB5F3525D82EDF /* MMWormhole.h */,
-				4B5CB7628C1A2B30F33C879DCE37CAEE /* MMWormholeCoordinatedFileTransiting.h */,
-				94973A5524C49D1208A976C8410C9DD1 /* MMWormholeFileTransiting.h */,
-				1127F4D15ADD9D0EF43DEB8CF0DDB505 /* MMWormholeSession.h */,
-				519E76664CD447A9FBAA57D9AE7B1566 /* MMWormholeSessionContextTransiting.h */,
-				E2B26F33890B793A9479EF4A5B62506A /* MMWormholeSessionFileTransiting.h */,
-				8C017C716E7668A6A6D7A18FCE159C88 /* MMWormholeSessionMessageTransiting.h */,
-				465F91ABC9788FB11758A27B118C77EF /* MMWormholeTransiting.h */,
-				842CC46C19FC5CD43C5A126BB16ABB9E /* MMWormholeUmbrella.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		B347648E3041FFE31D09628C0B284389 /* libsodium.framework */ = {
-			isa = PBXGroup;
-			children = (
-				8606305441399BDA7D315E79E2791EE4 /* Headers */,
-			);
-			path = libsodium.framework;
 			sourceTree = "<group>";
 		};
 		B924E20C5A477F302B0C039F8E4FEA93 /* Formatter */ = {
@@ -1886,36 +1156,6 @@
 				05C29FB91A9E91E3A8AA75D3C0273214 /* README.md */,
 			);
 			name = Pod;
-			sourceTree = "<group>";
-		};
-		BC5DF03F4C23844CABC65F1425261CE0 /* Eureka.framework */ = {
-			isa = PBXGroup;
-			children = (
-				C928839C2C29091975EE696F1FF7FDC9 /* Headers */,
-			);
-			path = Eureka.framework;
-			sourceTree = "<group>";
-		};
-		C10B0DD42C95636C21C886FC1B33952B /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				6FFBE04937CE03660B7CEE57E7E8C280 /* DDXML.h */,
-				FCBC976887A2686BFD277D2C9073A976 /* DDXMLDocument.h */,
-				12E3238E58B8DCB1FE3C651DB828C221 /* DDXMLElement.h */,
-				3381DB323C6AA50F47F9C838854E2941 /* DDXMLElementAdditions.h */,
-				95EE705D526DEAE274097FD747F950FE /* DDXMLNode.h */,
-				DAB5735A91B9F81CD2A3729B512623AB /* KissXML.h */,
-				E0843E18574A3B6508BEBDD1DE5A1C58 /* NSString+DDXML.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		C2AA23CB5055935977CC0FE8B5EDE7DD /* CocoaAsyncSocket.framework */ = {
-			isa = PBXGroup;
-			children = (
-				3A4F1ED9D53019A6D0768A8C91105489 /* Headers */,
-			);
-			path = CocoaAsyncSocket.framework;
 			sourceTree = "<group>";
 		};
 		C486AC7D2BE09F8E0B71F2C715448C86 /* Default */ = {
@@ -1973,15 +1213,6 @@
 			path = KeychainAccess;
 			sourceTree = "<group>";
 		};
-		C928839C2C29091975EE696F1FF7FDC9 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				D0CCC2323FDD7C87FD7B80A6AB7B2155 /* Eureka.h */,
-				338943F2FD2B634D3FF7FF77C727A7D1 /* Eureka-Swift.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		C9D16345387DA770722121FEBBAFCF42 /* iOS */ = {
 			isa = PBXGroup;
 			children = (
@@ -2003,16 +1234,6 @@
 				4457AE36678E9D3566F8133CB330E489 /* RealmSwift */,
 			);
 			name = Pods;
-			sourceTree = "<group>";
-		};
-		CC73AE048D6441AE7303586773B3B4F9 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				A066A6A3D9A2DA760483FF992E8169F6 /* libmaxminddb.h */,
-				7A58F73D41726C655AA00F07034B35A5 /* maxminddb.h */,
-				30655D1B7717BAAE3B9A31957A7351E3 /* maxminddb_config.h */,
-			);
-			path = Headers;
 			sourceTree = "<group>";
 		};
 		CD82EF69F9AC04D556C7D655FD1723A7 /* Swift */ = {
@@ -2201,77 +1422,12 @@
 			path = "Target Support Files/Pods-ccuiio_Tests";
 			sourceTree = "<group>";
 		};
-		E1B27C5FA011674705E46F16CEABF260 /* mbedtls.framework */ = {
-			isa = PBXGroup;
-			children = (
-				1C55E1B1E4B47F9EAB824A3B92A080C7 /* Headers */,
-			);
-			path = mbedtls.framework;
-			sourceTree = "<group>";
-		};
-		E272E3848AC2448FDBC8560270A9135E /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				E0197931ED6CB16209401BF436DD7088 /* libuv.h */,
-				A841E1EA52D8CAFE96C70A30A4EA551D /* uv.h */,
-				8ED6CD5FB8B3E0D46AF69FEAF94C017A /* uv-darwin.h */,
-				61B795FB2F1D1216724604A31147AE27 /* uv-errno.h */,
-				9AB31C73EE6BBCF271B7B1B28276F964 /* uv-unix.h */,
-				F03F44141461FFAFFFA8D025476D166B /* uv-version.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
 		E6011811BA1619096F57726935F75D03 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 				3AF680FAF220957F644F09C6F90849A2 /* librealmcore-ios.a */,
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		EDED0722B7DB3AF71191526BFDC51E31 /* Headers */ = {
-			isa = PBXGroup;
-			children = (
-				D226D7B90936DBCF1BA78D364223C625 /* JSONUtils.h */,
-				A19C9FA87E410252F47DF3BF450D970E /* NSError+Helper.h */,
-				EE8B1FA94C5BFC3D36EE4F506BA836B7 /* Potatso.h */,
-				3D5DACC5498754ABA247A5970D2F0F31 /* PotatsoBase.h */,
-				0C5B12165F5DB9F4444C44A011DBCDE3 /* PotatsoBase-Swift.h */,
-				FCC8326A4C7031F8491D674D7B4B3921 /* Settings.h */,
-			);
-			path = Headers;
-			sourceTree = "<group>";
-		};
-		EF908E5427C99641D9DB424CB6913F25 /* yaml.framework */ = {
-			isa = PBXGroup;
-			children = (
-				919E8838FBD9231B1BA119ED6C465CF4 /* Headers */,
-			);
-			path = yaml.framework;
-			sourceTree = "<group>";
-		};
-		F4996CE14A020F975814872162D41B31 /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				C2AA23CB5055935977CC0FE8B5EDE7DD /* CocoaAsyncSocket.framework */,
-				BC5DF03F4C23844CABC65F1425261CE0 /* Eureka.framework */,
-				1606D5ABB74EE4994DE20BAFFEBF7725 /* KissXML.framework */,
-				68A4ABD2D4FED99B323A2E968152016B /* libmaxminddb.framework */,
-				B347648E3041FFE31D09628C0B284389 /* libsodium.framework */,
-				6CAA8E35F3BCF03AAB569DA0A017FFAE /* libuv.framework */,
-				E1B27C5FA011674705E46F16CEABF260 /* mbedtls.framework */,
-				2E240444F2070AAE0589C04C779EFFE9 /* MMWormhole.framework */,
-				75C05BDBC074196B6D63C8E2D01D9199 /* PacketProcessor.framework */,
-				20C6B569245660D03319A096A65F15A2 /* PotatsoBase.framework */,
-				976D601F4B4903376874EC0E5D1ADBAE /* PotatsoLibrary.framework */,
-				55C288EB3DAA595E9D07F79EB0398222 /* PotatsoModel.framework */,
-				79BF0119984EA1C72CBAB8E2B69B5D14 /* ShadowPath.framework */,
-				1B1004CE9DDA383EE7189EF16EB200D4 /* ssrLocal.framework */,
-				EF908E5427C99641D9DB424CB6913F25 /* yaml.framework */,
-			);
-			name = Frameworks;
-			path = ccuiio/Classes/Frameworks;
 			sourceTree = "<group>";
 		};
 		FC056A0F775FA25928A951F225D73AAF /* Support Files */ = {
