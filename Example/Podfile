@@ -1,6 +1,6 @@
 use_frameworks!
 target 'ccuiio_Tests' do
   pod 'ccuiio', :path => '../'
-  
+  pod 'RealmSwift', '~> 2.10.2', :modular_headers => true 
   
 end
