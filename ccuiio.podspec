@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0'
   s.compiler_flags = "-fcxx-modules"
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
-  
+  s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
       sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
       sss.ios.vendored_frameworks = 'ccuiio/Classes/Frameworks/*.framework'
