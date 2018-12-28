@@ -182,7 +182,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 # pragma pop_macro("any")
 #endif
 
-@class NSDateFormatter;
 @class RLMRealm;
 @class RLMObjectSchema;
 @class RLMSchema;
@@ -195,17 +194,12 @@ SWIFT_CLASS("_TtC12PotatsoModel9BaseModel")
 @property (nonatomic) BOOL deleted;
 @property (nonatomic) BOOL synced;
 + (NSString * _Nullable)primaryKey SWIFT_WARN_UNUSED_RESULT;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, strong) NSDateFormatter * _Nonnull dateFormatter SWIFT_DEPRECATED_OBJC("Swift property 'BaseModel.dateFormatter' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSDateFormatter * _Nonnull)dateFormatter SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'BaseModel.dateFormatter' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithRealm:(RLMRealm * _Nonnull)realm schema:(RLMObjectSchema * _Nonnull)schema OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithValue:(id _Nonnull)value schema:(RLMSchema * _Nonnull)schema OBJC_DESIGNATED_INITIALIZER;
 @end
 
 
-@interface BaseModel (SWIFT_EXTENSION(PotatsoModel))
-- (void)setModified SWIFT_DEPRECATED_OBJC("Swift method 'BaseModel.setModified()' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-@end
 
 
 SWIFT_CLASS("_TtC12PotatsoModel18ConfigurationGroup")
@@ -224,12 +218,6 @@ SWIFT_CLASS("_TtC12PotatsoModel18ConfigurationGroup")
 
 
 
-@interface ConfigurationGroup (SWIFT_EXTENSION(PotatsoModel))
-+ (BOOL)changeProxyForGroupId:(NSString * _Nonnull)groupId proxyId:(NSString * _Nullable)proxyId error:(NSError * _Nullable * _Nullable)error SWIFT_DEPRECATED_OBJC("Swift method 'ConfigurationGroup.changeProxy(forGroupId:proxyId:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (BOOL)appendProxyRuleSetForGroupId:(NSString * _Nonnull)groupId rulesetId:(NSString * _Nonnull)rulesetId error:(NSError * _Nullable * _Nullable)error SWIFT_DEPRECATED_OBJC("Swift method 'ConfigurationGroup.appendProxyRuleSet(forGroupId:rulesetId:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (BOOL)changeDNSForGroupId:(NSString * _Nonnull)groupId dns:(NSString * _Nullable)dns error:(NSError * _Nullable * _Nullable)error SWIFT_DEPRECATED_OBJC("Swift method 'ConfigurationGroup.changeDNS(forGroupId:dns:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-+ (BOOL)changeNameForGroupId:(NSString * _Nonnull)groupId name:(NSString * _Nonnull)name error:(NSError * _Nullable * _Nullable)error SWIFT_DEPRECATED_OBJC("Swift method 'ConfigurationGroup.changeName(forGroupId:name:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-@end
 
 
 SWIFT_CLASS("_TtC12PotatsoModel5Proxy")
@@ -245,16 +233,6 @@ SWIFT_CLASS("_TtC12PotatsoModel5Proxy")
 @property (nonatomic, copy) NSString * _Nullable ssrProtocol;
 @property (nonatomic, copy) NSString * _Nullable ssrObfs;
 @property (nonatomic, copy) NSString * _Nullable ssrObfsParam;
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull ssUriPrefix SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssUriPrefix' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSString * _Nonnull)ssUriPrefix SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssUriPrefix' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSString * _Nonnull ssrUriPrefix SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrUriPrefix' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSString * _Nonnull)ssrUriPrefix SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrUriPrefix' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSArray<NSString *> * _Nonnull ssrSupportedProtocol SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrSupportedProtocol' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSArray<NSString *> * _Nonnull)ssrSupportedProtocol SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrSupportedProtocol' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSArray<NSString *> * _Nonnull ssrSupportedObfs SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrSupportedObfs' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSArray<NSString *> * _Nonnull)ssrSupportedObfs SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssrSupportedObfs' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSArray<NSString *> * _Nonnull ssSupportedEncryption SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssSupportedEncryption' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");)
-+ (NSArray<NSString *> * _Nonnull)ssSupportedEncryption SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.ssSupportedEncryption' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (NSArray<NSString *> * _Nonnull)indexedProperties SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithRealm:(RLMRealm * _Nonnull)realm schema:(RLMObjectSchema * _Nonnull)schema OBJC_DESIGNATED_INITIALIZER;
@@ -264,13 +242,9 @@ SWIFT_CLASS_PROPERTY(@property (nonatomic, class, readonly, copy) NSArray<NSStri
 
 
 
-@interface Proxy (SWIFT_EXTENSION(PotatsoModel))
-+ (BOOL)uriIsShadowsocks:(NSString * _Nonnull)uri SWIFT_WARN_UNUSED_RESULT SWIFT_DEPRECATED_OBJC("Swift method 'Proxy.uriIsShadowsocks(_:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-@end
 
 
 @interface Proxy (SWIFT_EXTENSION(PotatsoModel))
-@property (nonatomic, readonly, copy) NSString * _Nonnull uri SWIFT_DEPRECATED_OBJC("Swift property 'Proxy.uri' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 @property (nonatomic, readonly, copy) NSString * _Nonnull description;
 @end
 
@@ -285,8 +259,6 @@ SWIFT_CLASS("_TtC12PotatsoModel12ProxyRuleSet")
 @property (nonatomic, copy) NSString * _Nonnull rulesJSON;
 @property (nonatomic) BOOL isSubscribe;
 @property (nonatomic) BOOL isOfficial;
-- (void)removeRuleAtIndex:(NSInteger)index SWIFT_DEPRECATED_OBJC("Swift method 'ProxyRuleSet.removeRule(atIndex:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-- (void)move:(NSInteger)fromIndex toIndex:(NSInteger)toIndex SWIFT_DEPRECATED_OBJC("Swift method 'ProxyRuleSet.move(_:toIndex:)' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
 + (NSArray<NSString *> * _Nonnull)indexedProperties SWIFT_WARN_UNUSED_RESULT;
 - (nonnull instancetype)init OBJC_DESIGNATED_INITIALIZER;
 - (nonnull instancetype)initWithRealm:(RLMRealm * _Nonnull)realm schema:(RLMObjectSchema * _Nonnull)schema OBJC_DESIGNATED_INITIALIZER;

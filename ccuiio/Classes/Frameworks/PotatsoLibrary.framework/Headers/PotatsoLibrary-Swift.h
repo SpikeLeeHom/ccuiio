@@ -182,9 +182,6 @@ typedef unsigned int swift_uint4  __attribute__((__ext_vector_type__(4)));
 #endif
 
 
-@interface ConfigurationGroup (SWIFT_EXTENSION(PotatsoLibrary))
-@property (nonatomic, readonly) BOOL isDefault SWIFT_DEPRECATED_OBJC("Swift property 'ConfigurationGroup.isDefault' uses '@objc' inference deprecated in Swift 4; add '@objc' to provide an Objective-C entrypoint");
-@end
 
 #if __has_attribute(external_source_symbol)
 # pragma clang attribute pop

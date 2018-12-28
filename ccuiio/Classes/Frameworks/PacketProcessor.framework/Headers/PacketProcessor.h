@@ -2,8 +2,8 @@
 //  PacketProcessor.h
 //  PacketProcessor
 //
-//  Created by LEI on 4/1/16.
-//  Copyright © 2016 TouchingApp. All rights reserved.
+//  Created by BCM on 2018/12/26.
+//  Copyright © 2018年 BCM. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -16,4 +16,4 @@ FOUNDATION_EXPORT const unsigned char PacketProcessorVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PacketProcessor/PublicHeader.h>
 
-#import "TunnelInterface.h"
+
