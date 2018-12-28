@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ccuiio'
-  s.version          = '1.0.4'
+  s.version          = '1.0.6'
   s.summary          = 'ccuiio is amazing.'
 
 # This description is used to generate tags and improve search results.
@@ -29,7 +29,7 @@ TODO: Add long description of the pod here.
   s.ios.deployment_target = '9.0' 
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
-      sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
+      sss.frameworks = 'CocoaAsyncSocket','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
       sss.ios.vendored_frameworks = 'ccuiio/Classes/Frameworks/*.framework'
       sss.ios.vendored_library    = 'ccuiio/Classes/lib/*.a'
 

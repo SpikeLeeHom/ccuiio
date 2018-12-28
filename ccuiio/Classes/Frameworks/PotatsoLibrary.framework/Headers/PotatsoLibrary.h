@@ -2,8 +2,8 @@
 //  PotatsoLibrary.h
 //  PotatsoLibrary
 //
-//  Created by LEI on 12/16/15.
-//  Copyright © 2015 TouchingApp. All rights reserved.
+//  Created by BCM on 2018/12/26.
+//  Copyright © 2018年 BCM. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -15,4 +15,5 @@ FOUNDATION_EXPORT double PotatsoLibraryVersionNumber;
 FOUNDATION_EXPORT const unsigned char PotatsoLibraryVersionString[];
 
 // In this header, you should import all the public headers of your framework using statements like #import <PotatsoLibrary/PublicHeader.h>
+
 
