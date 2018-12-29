@@ -28,16 +28,13 @@ TODO: Add long description of the pod here.
   s.source_files = 'ccuiio/Classes/**/*.{h,m,mm,c,swift}'
   s.ios.deployment_target = '9.0' 
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
+  s.static_framework  =  true
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
-      sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml'
+      sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml','Realm','RealmSwift','KeychainAccess'
       sss.ios.vendored_frameworks = 'ccuiio/Classes/Frameworks/*.framework'
       sss.ios.vendored_library    = 'ccuiio/Classes/lib/*.a'
 
   end
-  s.dependency 'RealmSwift', '~> 2.10.2'
-  s.dependency 'Cartography', '~> 3.0'
-  s.dependency 'KeychainAccess','~> 3.1.1'
-  s.dependency 'AsyncSwift'
-  s.dependency 'LogglyLogger-CocoaLumberjack', '~> 3.0.0'
+  
   
 end

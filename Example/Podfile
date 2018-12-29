@@ -1,12 +1,5 @@
 use_frameworks!
 target 'ccuiio_Tests' do
-  pod 'ccuiio', :path => '../'
-  pod 'RealmSwift', '~> 2.10.2', :modular_headers => true 
-  pod 'Cartography','~>3.0'
-  pod 'KeychainAccess', '~> 3.1.1'
-  
-  pod 'CocoaLumberjack/Swift', '~> 3.4.1'
-  pod 'LogglyLogger-CocoaLumberjack', '~> 3.0.0'
-  pod 'Alamofire', :modular_headers => true 
-  pod 'AsyncSwift'
+ 
+  pod 'ccuiio', :path => '../' 
 end
