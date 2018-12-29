@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ccuiio'
-  s.version          = '1.0.5'
+  s.version          = '1.0.7'
   s.summary          = 'ccuiio is amazing.'
 
 # This description is used to generate tags and improve search results.
@@ -34,5 +34,10 @@ TODO: Add long description of the pod here.
       sss.ios.vendored_library    = 'ccuiio/Classes/lib/*.a'
 
   end
+  s.dependency 'RealmSwift', '~> 2.10.2'
+  s.dependency 'Cartography', '~> 3.0'
+  s.dependency 'KeychainAccess','~> 3.1.1'
+  s.dependency 'AsyncSwift'
+  s.dependency 'LogglyLogger-CocoaLumberjack', '~> 3.0.0'
   
 end
