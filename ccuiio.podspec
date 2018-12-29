@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ccuiio'
-  s.version          = '1.0.7'
+  s.version          = '1.0.8'
   s.summary          = 'ccuiio is amazing.'
 
 # This description is used to generate tags and improve search results.
