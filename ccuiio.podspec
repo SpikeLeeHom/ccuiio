@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
   s.xcconfig = {'OTHER_LDFLAGS' => '-ObjC'}
   s.static_framework  =  true
   s.subspec 'CcuiioThirdPartSocialVendor' do |sss|
-      sss.frameworks = 'CocoaAsyncSocket','Eureka','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml','Realm','RealmSwift','KeychainAccess'
+      sss.frameworks = 'CocoaAsyncSocket','KissXML','libmaxminddb','libsodium','libuv','mbedtls','MMWormhole','PacketProcessor','PotatsoBase','PotatsoLibrary','PotatsoModel','ShadowPath','ssrLocal','yaml','Realm','RealmSwift','KeychainAccess'
       sss.ios.vendored_frameworks = 'ccuiio/Classes/Frameworks/*.framework'
       sss.ios.vendored_library    = 'ccuiio/Classes/lib/*.a'
 
